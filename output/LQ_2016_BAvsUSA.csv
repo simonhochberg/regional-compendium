@@ -1,0 +1,21 @@
+,Industry,Location Quotient
+0,"Agriculture, Forestry, Fishing and Hunting",0.48
+1,"Mining, Quarrying, and Oil and Gas Extraction",0.07
+2,Utilities,0.46
+3,Construction,1.05
+4,Manufacturing,0.78
+5,Wholesale Trade,1.2
+6,Retail Trade,0.81
+7,Transportation and Warehousing,0.74
+8,Information,2.85
+9,Finance and Insurance,0.9
+10,Real Estate and Rental and Leasing,1.08
+11,"Professional, Scientific, and Technical Services",1.67
+12,Management of Companies and Enterprises,1.56
+13,Administrative and Support and Waste Management and Remediation Services,0.65
+14,Education Services,1.26
+15,Health Care and Social Assistance,0.8
+16,"Arts, Entertainment, and Recreation",1.08
+17,Accomodation and Food Services,0.99
+18,Other Services (except Public Administration),0.92
+19,Unclassified,1.95

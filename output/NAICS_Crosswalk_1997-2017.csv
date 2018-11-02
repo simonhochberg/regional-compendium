@@ -1,0 +1,1391 @@
+,2017 NAICS Title,2017 NAICS Code,2012 NAICS Code,2007 NAICS Code,2002 NAICS Code,1997 NAICS Code
+0,Soybean Farming,111110,111110,111110,111110,111110
+1,Oilseed (except Soybean) Farming,111120,111120,111120,111120,111120
+2,Dry Pea and Bean Farming,111130,111130,111130,111130,111130
+3,Wheat Farming,111140,111140,111140,111140,111140
+4,Corn Farming,111150,111150,111150,111150,111150
+5,Rice Farming,111160,111160,111160,111160,111160
+6,Oilseed and Grain Combination Farming,111191,111191,111191,111191,111191
+7,All Other Grain Farming,111199,111199,111199,111199,111199
+8,Potato Farming,111211,111211,111211,111211,111211
+9,Potato Farming,111211,111211,111211,111219,111219
+10,Other Vegetable (except Potato) and Melon Farming,111219,111219,111219,111219,111219
+11,Orange Groves,111310,111310,111310,111310,111310
+12,Citrus (except Orange) Groves,111320,111320,111320,111320,111320
+13,Apple Orchards,111331,111331,111331,111331,111331
+14,Grape Vineyards,111332,111332,111332,111332,111332
+15,Strawberry Farming,111333,111333,111333,111333,111333
+16,Berry (except Strawberry) Farming,111334,111334,111334,111334,111334
+17,Tree Nut Farming,111335,111335,111335,111335,111335
+18,Fruit and Tree Nut Combination Farming,111336,111336,111336,111336,111336
+19,Other Noncitrus Fruit Farming,111339,111339,111339,111339,111339
+20,Mushroom Production,111411,111411,111411,111411,111411
+21,Other Food Crops Grown Under Cover,111419,111419,111419,111419,111419
+22,Nursery and Tree Production,111421,111421,111421,111421,111421
+23,Floriculture Production,111422,111422,111422,111422,111422
+24,Tobacco Farming,111910,111910,111910,111910,111910
+25,Cotton Farming,111920,111920,111920,111920,111920
+26,Sugarcane Farming,111930,111930,111930,111930,111930
+27,Hay Farming,111940,111940,111940,111940,111940
+28,Sugar Beet Farming,111991,111991,111991,111991,111991
+29,Peanut Farming,111992,111992,111992,111992,111992
+30,All Other Miscellaneous Crop Farming,111998,111998,111998,111998,111998
+31,Other Aquaculture,112519,112519,112519,111998,111998
+32,Beef Cattle Ranching and Farming,112111,112111,112111,112111,112111
+33,Cattle Feedlots,112112,112112,112112,112112,112112
+34,Dairy Cattle and Milk Production,112120,112120,112120,112120,112120
+35,Dual-Purpose Cattle Ranching and Farming,112130,112130,112130,112130,112130
+36,Hog and Pig Farming,112210,112210,112210,112210,112210
+37,Chicken Egg Production,112310,112310,112310,112310,112310
+38,Broilers and Other Meat Type Chicken Production,112320,112320,112320,112320,112320
+39,Turkey Production,112330,112330,112330,112330,112330
+40,Poultry Hatcheries,112340,112340,112340,112340,112340
+41,Other Poultry Production,112390,112390,112390,112390,112390
+42,Sheep Farming,112410,112410,112410,112410,112410
+43,Goat Farming,112420,112420,112420,112420,112420
+44,Finfish Farming and Fish Hatcheries,112511,112511,112511,112511,112511
+45,Shellfish Farming,112512,112512,112512,112512,112512
+46,Other Aquaculture,112519,112519,112519,112519,112519
+47,Apiculture,112910,112910,112910,112910,112910
+48,Horses and Other Equine Production,112920,112920,112920,112920,112920
+49,Fur-Bearing Animal and Rabbit Production,112930,112930,112930,112930,112930
+50,All Other Animal Production,112990,112990,112990,112990,112990
+51,Timber Tract Operations,113110,113110,113110,113110,113110
+52,Forest Nurseries and Gathering of Forest Products,113210,113210,113210,113210,113210
+53,Logging,113310,113310,113310,113310,113310
+54,Finfish Fishing,114111,114111,114111,114111,114111
+55,Shellfish Fishing,114112,114112,114112,114112,114112
+56,Other Marine Fishing,114119,114119,114119,114119,114119
+57,Hunting and Trapping,114210,114210,114210,114210,114210
+58,Cotton Ginning,115111,115111,115111,115111,115111
+59,"Soil Preparation, Planting, and Cultivating",115112,115112,115112,115112,115112
+60,"Crop Harvesting, Primarily by Machine",115113,115113,115113,115113,115113
+61,Postharvest Crop Activities (except Cotton Ginning),115114,115114,115114,115114,115114
+62,Farm Labor Contractors and Crew Leaders,115115,115115,115115,115115,115115
+63,Farm Management Services,115116,115116,115116,115116,115116
+64,Support Activities for Animal Production,115210,115210,115210,115210,115210
+65,Support Activities for Forestry,115310,115310,115310,115310,115310
+66,Crude Petroleum Extraction,211120,211111,211111,211111,211111
+67,Natural Gas Extraction,211130,211111,211111,211111,211111
+68,Natural Gas Extraction,211130,211112,211112,211112,211112
+69,Bituminous Coal and Lignite Surface Mining,212111,212111,212111,212111,212111
+70,Bituminous Coal Underground Mining,212112,212112,212112,212112,212112
+71,Anthracite Mining,212113,212113,212113,212113,212113
+72,Iron Ore Mining,212210,212210,212210,212210,212210
+73,Gold Ore Mining,212221,212221,212221,212221,212221
+74,Silver Ore Mining,212222,212222,212222,212222,212222
+75,"Copper, Nickel, Lead, and Zinc Mining",212230,212231,212231,212231,212231
+76,"Copper, Nickel, Lead, and Zinc Mining",212230,212234,212234,212234,212234
+77,Uranium-Radium-Vanadium Ore Mining,212291,212291,212291,212291,212291
+78,All Other Metal Ore Mining,212299,212299,212299,212299,212299
+79,Dimension Stone Mining and Quarrying,212311,212311,212311,212311,212311
+80,Crushed and Broken Limestone Mining and Quarrying,212312,212312,212312,212312,212312
+81,Crushed and Broken Granite Mining and Quarrying,212313,212313,212313,212313,212313
+82,Other Crushed and Broken Stone Mining and Quarrying,212319,212319,212319,212319,212319
+83,Construction Sand and Gravel Mining,212321,212321,212321,212321,212321
+84,Industrial Sand Mining,212322,212322,212322,212322,212322
+85,Kaolin and Ball Clay Mining,212324,212324,212324,212324,212324
+86,Clay and Ceramic and Refractory Minerals Mining,212325,212325,212325,212325,212325
+87,"Potash, Soda, and Borate Mineral Mining",212391,212391,212391,212391,212391
+88,Phosphate Rock Mining,212392,212392,212392,212392,212392
+89,Other Chemical and Fertilizer Mineral Mining,212393,212393,212393,212393,212393
+90,All Other Nonmetallic Mineral Mining,212399,212399,212399,212399,212399
+91,Drilling Oil and Gas Wells,213111,213111,213111,213111,213111
+92,Support Activities for Oil and Gas Operations,213112,213112,213112,213112,213112
+93,Support Activities for Coal Mining,213113,213113,213113,213113,213113
+94,Support Activities for Metal Mining,213114,213114,213114,213114,213114
+95,Support Activities for Nonmetallic Minerals (except Fuels) Mining,213115,213115,213115,213115,213115
+96,Hydroelectric Power Generation,221111,221111,221111,221111,221111
+97,Fossil Fuel Electric Power Generation,221112,221112,221112,221112,221112
+98,Nuclear Electric Power Generation,221113,221113,221113,221113,221113
+99,Solar Electric Power Generation,221114,221114,221119,221119,221119
+100,Wind Electric Power Generation,221115,221115,221119,221119,221119
+101,Geothermal Electric Power Generation,221116,221116,221119,221119,221119
+102,Biomass Electric Power Generation,221117,221117,221119,221119,221119
+103,Other Electric Power Generation,221118,221118,221119,221119,221119
+104,Electric Bulk Power Transmission and Control,221121,221121,221121,221121,221121
+105,Electric Power Distribution,221122,221122,221122,221122,221122
+106,Natural Gas Distribution,221210,221210,221210,221210,221210
+107,Water Supply and Irrigation Systems,221310,221310,221310,221310,221310
+108,Sewage Treatment Facilities,221320,221320,221320,221320,221320
+109,Steam and Air-Conditioning Supply,221330,221330,221330,221330,221330
+110,New Single-Family Housing Construction (except For-Sale Builders),236115,236115,236115,236115,233210
+111,New Multifamily Housing Construction (except For-Sale Builders),236116,236116,236116,236116,233220
+112,New Housing For-Sale Builders,236117,236117,236117,236117,233210
+113,New Housing For-Sale Builders,236117,236117,236117,236117,233220
+114,Residential Remodelers,236118,236118,236118,236118,233210
+115,Residential Remodelers,236118,236118,236118,236118,233220
+116,Industrial Building Construction,236210,236210,236210,236210,233310
+117,Industrial Building Construction,236210,236210,236210,236210,234930
+118,Industrial Building Construction,236210,236210,236210,236210,234990
+119,Commercial and Institutional Building Construction,236220,236220,236220,236220,233220
+120,Commercial and Institutional Building Construction,236220,236220,236220,236220,233310
+121,Commercial and Institutional Building Construction,236220,236220,236220,236220,233320
+122,Commercial and Institutional Building Construction,236220,236220,236220,236220,235990
+123,Water and Sewer Line and Related Structures Construction,237110,237110,237110,237110,234910
+124,Water and Sewer Line and Related Structures Construction,237110,237110,237110,237110,234990
+125,Water and Sewer Line and Related Structures Construction,237110,237110,237110,237110,235810
+126,Oil and Gas Pipeline and Related Structures Construction,237120,237120,237120,237120,213112
+127,Oil and Gas Pipeline and Related Structures Construction,237120,237120,237120,237120,234910
+128,Oil and Gas Pipeline and Related Structures Construction,237120,237120,237120,237120,234930
+129,Power and Communication Line and Related Structures Construction,237130,237130,237130,237130,234920
+130,Power and Communication Line and Related Structures Construction,237130,237130,237130,237130,234930
+131,Land Subdivision,237210,237210,237210,237210,233110
+132,"Highway, Street, and Bridge Construction",237310,237310,237310,237310,234110
+133,"Highway, Street, and Bridge Construction",237310,237310,237310,237310,234120
+134,"Highway, Street, and Bridge Construction",237310,237310,237310,237310,235210
+135,Other Heavy and Civil Engineering Construction,237990,237990,237990,237990,234120
+136,Other Heavy and Civil Engineering Construction,237990,237990,237990,237990,234990
+137,Other Heavy and Civil Engineering Construction,237990,237990,237990,237990,235990
+138,Poured Concrete Foundation and Structure Contractors,238110,238110,238110,238110,235710
+139,Structural Steel and Precast Concrete Contractors,238120,238120,238120,238120,235910
+140,Framing Contractors,238130,238130,238130,238130,235510
+141,Masonry Contractors,238140,238140,238140,238140,235410
+142,Masonry Contractors,238140,238140,238140,238140,235420
+143,Glass and Glazing Contractors,238150,238150,238150,238150,235920
+144,Roofing Contractors,238160,238160,238160,238160,235610
+145,Siding Contractors,238170,238170,238170,238170,235610
+146,"Other Foundation, Structure, and Building Exterior Contractors",238190,238190,238190,238190,235910
+147,"Other Foundation, Structure, and Building Exterior Contractors",238190,238190,238190,238190,235990
+148,Drywall and Insulation Contractors,238310,238310,238190,238190,235910
+149,Drywall and Insulation Contractors,238310,238310,238190,238190,235990
+150,Electrical Contractors and Other Wiring Installation Contractors,238210,238210,238210,238210,235110
+151,Electrical Contractors and Other Wiring Installation Contractors,238210,238210,238210,238210,235310
+152,"Plumbing, Heating, and Air-Conditioning Contractors",238220,238220,238220,238220,235110
+153,"Plumbing, Heating, and Air-Conditioning Contractors",238220,238220,238220,238220,235910
+154,"Plumbing, Heating, and Air-Conditioning Contractors",238220,238220,238220,238220,235950
+155,Other Building Equipment Contractors,238290,238290,238290,238290,235950
+156,Other Building Equipment Contractors,238290,238290,238290,238290,235990
+157,Drywall and Insulation Contractors,238310,238310,238310,238310,235420
+158,Drywall and Insulation Contractors,238310,238310,238330,238330,235520
+159,Flooring Contractors,238330,238330,238330,238330,235520
+160,Painting and Wall Covering Contractors,238320,238320,238320,238320,235210
+161,Tile and Terrazzo Contractors,238340,238340,238340,238340,235430
+162,Finish Carpentry Contractors,238350,238350,238350,238350,235510
+163,Other Building Finishing Contractors,238390,238390,238390,238390,235610
+164,Other Building Finishing Contractors,238390,238390,238390,238390,235990
+165,Site Preparation Contractors,238910,238910,238910,238910,213112
+166,Site Preparation Contractors,238910,238910,238910,238910,213113
+167,Site Preparation Contractors,238910,238910,238910,238910,213114
+168,Site Preparation Contractors,238910,238910,238910,238910,213115
+169,Site Preparation Contractors,238910,238910,238910,238910,234990
+170,Site Preparation Contractors,238910,238910,238910,238910,235110
+171,Site Preparation Contractors,238910,238910,238910,238910,235930
+172,Site Preparation Contractors,238910,238910,238910,238910,235940
+173,Site Preparation Contractors,238910,238910,238910,238910,235990
+174,All Other Specialty Trade Contractors,238990,238990,238990,238990,234990
+175,All Other Specialty Trade Contractors,238990,238990,238990,238990,235710
+176,All Other Specialty Trade Contractors,238990,238990,238990,238990,235990
+177,All Other Specialty Trade Contractors,238990,238990,238990,238990,561720
+178,Dog and Cat Food Manufacturing,311111,311111,311111,311111,311111
+179,Other Animal Food Manufacturing,311119,311119,311119,311119,311119
+180,Flour Milling,311211,311211,311211,311211,311211
+181,Rice Milling,311212,311212,311212,311212,311212
+182,Malt Manufacturing,311213,311213,311213,311213,311213
+183,Wet Corn Milling,311221,311221,311221,311221,311221
+184,Soybean and Other Oilseed Processing,311224,311224,311222,311222,311222
+185,Soybean and Other Oilseed Processing,311224,311224,311223,311223,311223
+186,Fats and Oils Refining and Blending,311225,311225,311225,311225,311225
+187,Breakfast Cereal Manufacturing,311230,311230,311230,311230,311230
+188,Beet Sugar Manufacturing,311313,311313,311313,311313,311313
+189,Cane Sugar Manufacturing,311314,311314,311311,311311,311311
+190,Cane Sugar Manufacturing,311314,311314,311312,311312,311312
+191,Nonchocolate Confectionery Manufacturing,311340,311340,311340,311340,311340
+192,Chocolate and Confectionery Manufacturing from Cacao Beans,311351,311351,311320,311320,311320
+193,Confectionery Manufacturing from Purchased Chocolate,311352,311352,311330,311330,311330
+194,"Frozen Fruit, Juice, and Vegetable Manufacturing",311411,311411,311411,311411,311411
+195,Frozen Specialty Food Manufacturing,311412,311412,311412,311412,311412
+196,Fruit and Vegetable Canning,311421,311421,311421,311421,311421
+197,Specialty Canning,311422,311422,311422,311422,311422
+198,Dried and Dehydrated Food Manufacturing,311423,311423,311423,311423,311423
+199,Fluid Milk Manufacturing,311511,311511,311511,311511,311511
+200,Creamery Butter Manufacturing,311512,311512,311512,311512,311512
+201,Cheese Manufacturing,311513,311513,311513,311513,311513
+202,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",311514,311514,311514,311514,311514
+203,Ice Cream and Frozen Dessert Manufacturing,311520,311520,311520,311520,311520
+204,Animal (except Poultry) Slaughtering,311611,311611,311611,311611,311611
+205,Meat Processed from Carcasses,311612,311612,311612,311612,311612
+206,Rendering and Meat Byproduct Processing,311613,311613,311613,311613,311613
+207,Poultry Processing,311615,311615,311615,311615,311615
+208,Seafood Product Preparation and Packaging,311710,311710,311711,311711,311711
+209,Seafood Product Preparation and Packaging,311710,311710,311712,311712,311712
+210,Retail Bakeries,311811,311811,311811,311811,311811
+211,Commercial Bakeries,311812,311812,311812,311812,311812
+212,"Frozen Cakes, Pies, and Other Pastries Manufacturing",311813,311813,311813,311813,311813
+213,Cookie and Cracker Manufacturing,311821,311821,311821,311821,311821
+214,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",311824,311824,311822,311822,311822
+215,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",311824,311824,311823,311823,311823
+216,Tortilla Manufacturing,311830,311830,311830,311830,311830
+217,Roasted Nuts and Peanut Butter Manufacturing,311911,311911,311911,311911,311911
+218,Other Snack Food Manufacturing,311919,311919,311919,311919,311919
+219,Coffee and Tea Manufacturing,311920,311920,311920,311920,311920
+220,Flavoring Syrup and Concentrate Manufacturing,311930,311930,311930,311930,311930
+221,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",311941,311941,311941,311941,311941
+222,Spice and Extract Manufacturing,311942,311942,311942,311942,311942
+223,Perishable Prepared Food Manufacturing,311991,311991,311991,311991,311991
+224,All Other Miscellaneous Food Manufacturing,311999,311999,311999,311999,311999
+225,Soft Drink Manufacturing,312111,312111,312111,312111,312111
+226,Bottled Water Manufacturing,312112,312112,312112,312112,312112
+227,Ice Manufacturing,312113,312113,312113,312113,312113
+228,Breweries,312120,312120,312120,312120,312120
+229,Wineries,312130,312130,312130,312130,312130
+230,Distilleries,312140,312140,312140,312140,312140
+231,Tobacco Manufacturing,312230,312230,312210,312210,312210
+232,Tobacco Manufacturing,312230,312230,312221,312221,312221
+233,Tobacco Manufacturing,312230,312230,312229,312229,312229
+234,"Fiber, Yarn, and Thread Mills",313110,313110,313111,313111,313111
+235,"Fiber, Yarn, and Thread Mills",313110,313110,313112,313112,313112
+236,"Fiber, Yarn, and Thread Mills",313110,313110,313113,313113,313113
+237,Broadwoven Fabric Mills,313210,313210,313210,313210,313210
+238,Narrow Fabric Mills and Schiffli Machine Embroidery,313220,313220,313221,313221,313221
+239,Narrow Fabric Mills and Schiffli Machine Embroidery,313220,313220,313222,313222,313222
+240,Nonwoven Fabric Mills,313230,313230,313230,313230,313230
+241,Knit Fabric Mills,313240,313240,313241,313241,313241
+242,Knit Fabric Mills,313240,313240,313249,313249,313249
+243,Textile and Fabric Finishing Mills,313310,313310,313311,313311,313311
+244,Textile and Fabric Finishing Mills,313310,313310,313312,313312,313312
+245,Fabric Coating Mills,313320,313320,313320,313320,313320
+246,Carpet and Rug Mills,314110,314110,314110,314110,314110
+247,Curtain and Linen Mills,314120,314120,314121,314121,314121
+248,Curtain and Linen Mills,314120,314120,314129,314129,314129
+249,Textile Bag and Canvas Mills,314910,314910,314911,314911,314911
+250,Textile Bag and Canvas Mills,314910,314910,314912,314912,314912
+251,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",314994,314994,314991,314991,314991
+252,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",314994,314994,314992,314992,314992
+253,All Other Miscellaneous Textile Product Mills,314999,314999,314999,314999,314999
+254,All Other Miscellaneous Textile Product Mills,314999,314999,314999,315211,315211
+255,Cut and Sew Apparel Contractors,315210,315210,315211,315211,315211
+256,All Other Miscellaneous Textile Product Mills,314999,314999,314999,315212,315212
+257,Cut and Sew Apparel Contractors,315210,315210,315212,315212,315212
+258,Hosiery and Sock Mills,315110,315110,315111,315111,315111
+259,Hosiery and Sock Mills,315110,315110,315119,315119,315119
+260,Other Apparel Knitting Mills,315190,315190,315191,315191,315191
+261,Other Apparel Knitting Mills,315190,315190,315192,315192,315192
+262,Men's and Boys' Cut and Sew Apparel Manufacturing,315220,315220,315221,315221,315221
+263,Men's and Boys' Cut and Sew Apparel Manufacturing,315220,315220,315222,315222,315222
+264,Men's and Boys' Cut and Sew Apparel Manufacturing,315220,315220,315223,315223,315223
+265,Men's and Boys' Cut and Sew Apparel Manufacturing,315220,315220,315224,315224,315224
+266,Men's and Boys' Cut and Sew Apparel Manufacturing,315220,315220,315225,315225,315225
+267,Men's and Boys' Cut and Sew Apparel Manufacturing,315220,315220,315228,315228,315228
+268,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",315240,315240,315231,315231,315231
+269,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",315240,315240,315232,315232,315232
+270,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",315240,315240,315233,315233,315233
+271,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",315240,315240,315234,315234,315234
+272,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",315240,315240,315239,315239,315239
+273,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",315240,315240,315291,315291,315291
+274,Other Cut and Sew Apparel Manufacturing,315280,315280,315292,315292,315292
+275,Other Cut and Sew Apparel Manufacturing,315280,315280,315299,315299,315299
+276,Apparel Accessories and Other Apparel Manufacturing,315990,315990,315991,315991,315991
+277,Apparel Accessories and Other Apparel Manufacturing,315990,315990,315992,315992,315992
+278,Apparel Accessories and Other Apparel Manufacturing,315990,315990,315993,315993,315993
+279,Apparel Accessories and Other Apparel Manufacturing,315990,315990,315999,315999,315999
+280,Leather and Hide Tanning and Finishing,316110,316110,316110,316110,316110
+281,Footwear Manufacturing,316210,316210,316211,316211,316211
+282,Footwear Manufacturing,316210,316210,316212,316212,316212
+283,Footwear Manufacturing,316210,316210,316213,316213,316213
+284,Footwear Manufacturing,316210,316210,316214,316214,316214
+285,Footwear Manufacturing,316210,316210,316219,316219,316219
+286,Women's Handbag and Purse Manufacturing,316992,316992,316992,316992,316992
+287,All Other Leather Good and Allied Product Manufacturing,316998,316998,316991,316991,316991
+288,All Other Leather Good and Allied Product Manufacturing,316998,316998,316993,316993,316993
+289,All Other Leather Good and Allied Product Manufacturing,316998,316998,316999,316999,316999
+290,Sawmills,321113,321113,321113,321113,321113
+291,Wood Preservation,321114,321114,321114,321114,321114
+292,Hardwood Veneer and Plywood Manufacturing,321211,321211,321211,321211,321211
+293,Softwood Veneer and Plywood Manufacturing,321212,321212,321212,321212,321212
+294,Engineered Wood Member (except Truss) Manufacturing,321213,321213,321213,321213,321213
+295,Truss Manufacturing,321214,321214,321214,321214,321214
+296,Reconstituted Wood Product Manufacturing,321219,321219,321219,321219,321219
+297,Wood Window and Door Manufacturing,321911,321911,321911,321911,321911
+298,"Cut Stock, Resawing Lumber, and Planing",321912,321912,321912,321912,321912
+299,Other Millwork (including Flooring),321918,321918,321918,321918,321918
+300,Wood Container and Pallet Manufacturing,321920,321920,321920,321920,321920
+301,Manufactured Home (Mobile Home) Manufacturing,321991,321991,321991,321991,321991
+302,Prefabricated Wood Building Manufacturing,321992,321992,321992,321992,321992
+303,All Other Miscellaneous Wood Product Manufacturing,321999,321999,321999,321999,321999
+304,All Other Miscellaneous Wood Product Manufacturing,321999,321999,337129,337129,337129
+305,Pulp Mills,322110,322110,322110,322110,322110
+306,Paper (except Newsprint) Mills,322121,322121,322121,322121,322121
+307,Newsprint Mills,322122,322122,322122,322122,322122
+308,Paperboard Mills,322130,322130,322130,322130,322130
+309,Corrugated and Solid Fiber Box Manufacturing,322211,322211,322211,322211,322211
+310,Folding Paperboard Box Manufacturing,322212,322212,322212,322212,322212
+311,Other Paperboard Container Manufacturing,322219,322219,322213,322213,322213
+312,Other Paperboard Container Manufacturing,322219,322219,322214,322214,322214
+313,Other Paperboard Container Manufacturing,322219,322219,322215,322215,322215
+314,Paper Bag and Coated and Treated Paper Manufacturing,322220,322220,322221,322221,322221
+315,Paper Bag and Coated and Treated Paper Manufacturing,322220,322220,322222,322222,322222
+316,Paper Bag and Coated and Treated Paper Manufacturing,322220,322220,322223,322223,322223
+317,Paper Bag and Coated and Treated Paper Manufacturing,322220,322220,322224,322224,322224
+318,Paper Bag and Coated and Treated Paper Manufacturing,322220,322220,322225,322225,322225
+319,Paper Bag and Coated and Treated Paper Manufacturing,322220,322220,322226,322226,322226
+320,Stationery Product Manufacturing,322230,322230,322231,322231,322231
+321,Stationery Product Manufacturing,322230,322230,322232,322232,322232
+322,Stationery Product Manufacturing,322230,322230,322233,322233,322233
+323,Sanitary Paper Product Manufacturing,322291,322291,322291,322291,322291
+324,All Other Converted Paper Product Manufacturing,322299,322299,322299,322299,322299
+325,Commercial Printing (except Screen and Books),323111,323111,323110,323110,323110
+326,Commercial Printing (except Screen and Books),323111,323111,323111,323111,323111
+327,Commercial Printing (except Screen and Books),323111,323111,323112,323112,323112
+328,Commercial Printing (except Screen and Books),323111,323111,323114,323114,323114
+329,Commercial Printing (except Screen and Books),323111,323111,323115,323115,323115
+330,Commercial Printing (except Screen and Books),323111,323111,323116,323116,323116
+331,Commercial Printing (except Screen and Books),323111,323111,323118,323118,323118
+332,Commercial Printing (except Screen and Books),323111,323111,323119,323119,323119
+333,Commercial Screen Printing,323113,323113,323113,323113,323113
+334,Books Printing,323117,323117,323117,323117,323117
+335,Support Activites for Printing,323120,323120,323121,323121,323121
+336,Support Activites for Printing,323120,323120,323122,323122,323122
+337,Petroleum Refineries,324110,324110,324110,324110,324110
+338,Asphalt Paving Mixture and Block Manufacturing,324121,324121,324121,324121,324121
+339,Asphalt Shingle and Coating Materials Manufacturing,324122,324122,324122,324122,324122
+340,Petroleum Lubricating Oil and Grease Manufacturing,324191,324191,324191,324191,324191
+341,All Other Petroleum and Coal Products Manufacturing,324199,324199,324199,324199,324199
+342,Petrochemical Manufacturing,325110,325110,325110,325110,325110
+343,Industrial Gas Manufacturing,325120,325120,325120,325120,325120
+344,Synthetic Dye and Pigment Manufacturing,325130,325130,325131,325131,325131
+345,Synthetic Dye and Pigment Manufacturing,325130,325130,325132,325132,325132
+346,Other Basic Inorganic Chemical Manufacturing,325180,325180,325181,325181,325181
+347,Other Basic Inorganic Chemical Manufacturing,325180,325180,325182,325182,325182
+348,Other Basic Inorganic Chemical Manufacturing,325180,325180,325188,325188,325188
+349,Ethyl Alcohol Manufacturing,325193,325193,325193,325193,325193
+350,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",325194,325194,325191,325191,325191
+351,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",325194,325194,325192,325192,325192
+352,All Other Basic Organic Chemical Manufacturing,325199,325199,325199,325199,325199
+353,Plastics Material and Resin Manufacturing,325211,325211,325211,325211,325211
+354,Synthetic Rubber Manufacturing,325212,325212,325212,325212,325212
+355,Artificial and Synthetic Fibers and Filaments Manufacturing,325220,325220,325221,325221,325221
+356,Artificial and Synthetic Fibers and Filaments Manufacturing,325220,325220,325222,325222,325222
+357,Nitrogenous Fertilizer Manufacturing,325311,325311,325311,325311,325311
+358,Phosphatic Fertilizer Manufacturing,325312,325312,325312,325312,325312
+359,Fertilizer (Mixing Only) Manufacturing,325314,325314,325314,325314,325314
+360,Pesticide and Other Agricultural Chemical Manufacturing,325320,325320,325320,325320,325320
+361,Medicinal and Botanical Manufacturing,325411,325411,325411,325411,325411
+362,Pharmaceutical Preparation Manufacturing,325412,325412,325412,325412,325412
+363,In-Vitro Diagnostic Substance Manufacturing,325413,325413,325413,325413,325413
+364,Biological Product (except Diagnostic) Manufacturing,325414,325414,325414,325414,325414
+365,Paint and Coating Manufacturing,325510,325510,325510,325510,325510
+366,Adhesive Manufacturing,325520,325520,325520,325520,325520
+367,Soap and Other Detergent Manufacturing,325611,325611,325611,325611,325611
+368,Polish and Other Sanitation Good Manufacturing,325612,325612,325612,325612,325612
+369,Surface Active Agent Manufacturing,325613,325613,325613,325613,325613
+370,Toilet Preparation Manufacturing,325620,325620,325620,325620,325620
+371,Printing Ink Manufacturing,325910,325910,325910,325910,325910
+372,Explosives Manufacturing,325920,325920,325920,325920,325920
+373,Custom Compounding of Purchased Resins,325991,325991,325991,325991,325991
+374,"Photographic Film, Paper, Plate, and Chemical Manufacturing",325992,325992,325992,325992,325992
+375,All Other Miscellaneous Chemical Product and Preparation Manufacturing,325998,325998,325998,325998,325998
+376,Plastics Bag and Pouch Manufacturing,326111,326111,326111,326111,326111
+377,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,326112,326112,326112,326112,326112
+378,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,326113,326113,326113,326113,326113
+379,Unlaminated Plastics Profile Shape Manufacturing,326121,326121,326121,326121,326121
+380,Plastics Pipe and Pipe Fitting Manufacturing,326122,326122,326122,326122,326122
+381,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",326130,326130,326130,326130,326130
+382,Polystyrene Foam Product Manufacturing,326140,326140,326140,326140,326140
+383,Urethane and Other Foam Product (except Polystyrene) Manufacturing,326150,326150,326150,326150,326150
+384,Plastics Bottle Manufacturing,326160,326160,326160,326160,326160
+385,Plastics Plumbing Fixture Manufacturing,326191,326191,326191,326191,326191
+386,All Other Plastics Product Manufacturing,326199,326199,326192,326192,326192
+387,All Other Plastics Product Manufacturing,326199,326199,326199,326199,326199
+388,Boat Building,336612,336612,336612,326199,326199
+389,Tire Manufacturing (except Retreading),326211,326211,326211,326211,326211
+390,Tire Retreading,326212,326212,326212,326212,326212
+391,Rubber and Plastics Hoses and Belting Manufacturing,326220,326220,326220,326220,326220
+392,Rubber Product Manufacturing for Mechanical Use,326291,326291,326291,326291,326291
+393,All Other Rubber Product Manufacturing,326299,326299,326299,326291,326291
+394,All Other Rubber Product Manufacturing,326299,326299,326299,326299,326299
+395,Boat Building,336612,336612,336612,326299,326299
+396,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",327110,327110,327111,327111,327111
+397,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",327110,327110,327112,327112,327112
+398,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",327110,327110,327113,327113,327113
+399,Clay Building Material and Refractories Manufacturing,327120,327120,327121,327121,327121
+400,Clay Building Material and Refractories Manufacturing,327120,327120,327122,327122,327122
+401,Clay Building Material and Refractories Manufacturing,327120,327120,327123,327123,327123
+402,Clay Building Material and Refractories Manufacturing,327120,327120,327124,327124,327124
+403,Clay Building Material and Refractories Manufacturing,327120,327120,327125,327125,327125
+404,Flat Glass Manufacturing,327211,327211,327211,327211,327211
+405,Other Pressed and Blown Glass and Glassware Manufacturing,327212,327212,327212,327212,327212
+406,Glass Container Manufacturing,327213,327213,327213,327213,327213
+407,Glass Product Manufacturing Made of Purchased Glass,327215,327215,327215,327215,327215
+408,Cement Manufacturing,327310,327310,327310,327310,327310
+409,Ready-Mix Concrete Manufacturing,327320,327320,327320,327320,327320
+410,Concrete Block and Brick Manufacturing,327331,327331,327331,327331,327331
+411,Concrete Pipe Manufacturing,327332,327332,327332,327332,327332
+412,Other Concrete Product Manufacturing,327390,327390,327390,327390,327390
+413,Lime Manufacturing,327410,327410,327410,327410,327410
+414,Gypsum Product Manufacturing,327420,327420,327420,327420,327420
+415,Abrasive Product Manufacturing,327910,327910,327910,327910,327910
+416,Cut Stone and Stone Product Manufacturing,327991,327991,327991,327991,327991
+417,Ground or Treated Mineral and Earth Manufacturing,327992,327992,327992,327992,327992
+418,Mineral Wool Manufacturing,327993,327993,327993,327993,327993
+419,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,327999,327999,327999,327999,327999
+420,Iron and Steel Mills and Ferroalloy Manufacturing,331110,331110,331111,331111,331111
+421,Iron and Steel Mills and Ferroalloy Manufacturing,331110,331110,331112,331112,331112
+422,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,331210,331210,331210,331210,331210
+423,Rolled Steel Shape Manufacturing,331221,331221,331221,331221,331221
+424,Steel Wire Drawing,331222,331222,331222,331222,331222
+425,Alumina Refining and Primary Aluminum Production,331313,331313,331311,331311,331311
+426,Alumina Refining and Primary Aluminum Production,331313,331313,331312,331312,331312
+427,Secondary Smelting and Alloying of Aluminum,331314,331314,331314,331314,331314
+428,"Aluminum Sheet, Plate, and Foil Manufacturing",331315,331315,331315,331315,331315
+429,"Other Aluminum Rolling, Drawing, and Extruding",331318,331318,331316,331316,331316
+430,"Other Aluminum Rolling, Drawing, and Extruding",331318,331318,331319,331319,331319
+431,Nonferrous Metal (except Aluminum) Smelting and Refining,331410,331410,331411,331411,331411
+432,Nonferrous Metal (except Aluminum) Smelting and Refining,331410,331410,331419,331419,331419
+433,"Copper Rolling, Drawing, Extruding, and Alloying",331420,331420,331421,331421,331421
+434,"Copper Rolling, Drawing, Extruding, and Alloying",331420,331420,331422,331422,331422
+435,"Copper Rolling, Drawing, Extruding, and Alloying",331420,331420,331423,331423,331423
+436,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",331491,331491,331491,331491,331491
+437,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",331492,331492,331492,331492,331492
+438,Iron Foundries,331511,331511,331511,331511,331511
+439,Steel Investment Foundries,331512,331512,331512,331512,331512
+440,Steel Foundries (except Investment),331513,331513,331513,331513,331513
+441,Nonferrous Metal Die-Casting Foundries,331523,331523,331521,331521,331521
+442,Nonferrous Metal Die-Casting Foundries,331523,331523,331522,331522,331522
+443,Aluminum Foundries (except Die-Casting),331524,331524,331524,331524,331524
+444,Other Nonferrous Metal Foundries (except Die-Casting),331529,331529,331525,331525,331525
+445,Other Nonferrous Metal Foundries (except Die-Casting),331529,331529,331528,331528,331528
+446,Iron and Steel Forging,332111,332111,332111,332111,332111
+447,Nonferrous Forging,332112,332112,332112,332112,332112
+448,Custom Roll Forming,332114,332114,332114,332114,332114
+449,Powder Metallurgy Part Manufacturing,332117,332117,332117,332117,332117
+450,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",332119,332119,332115,332115,332115
+451,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",332119,332119,332116,332116,332116
+452,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",332215,332215,332211,332211,332211
+453,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",332215,332215,332214,332214,332214
+454,Saw Blade and Handtool Manufacturing,332216,332216,332212,332212,332212
+455,Saw Blade and Handtool Manufacturing,332216,332216,332213,332213,332213
+456,Prefabricated Metal Building and Component Manufacturing,332311,332311,332311,332311,332311
+457,Fabricated Structural Metal Manufacturing,332312,332312,332312,332312,332312
+458,Plate Work Manufacturing,332313,332313,332313,332313,332313
+459,Metal Window and Door Manufacturing,332321,332321,332321,332321,332321
+460,Sheet Metal Work Manufacturing,332322,332322,332322,332322,332322
+461,Ornamental and Architectural Metal Work Manufacturing,332323,332323,332323,332323,332323
+462,Power Boiler and Heat Exchanger Manufacturing,332410,332410,332410,332410,332410
+463,Metal Tank (Heavy Gauge) Manufacturing,332420,332420,332420,332420,332420
+464,Metal Can Manufacturing,332431,332431,332431,332431,332431
+465,Other Metal Container Manufacturing,332439,332439,332439,332439,332439
+466,Hardware Manufacturing,332510,332510,332510,332510,332510
+467,Spring Manufacturing,332613,332613,332611,332611,332611
+468,Spring Manufacturing,332613,332613,332612,332612,332612
+469,Other Fabricated Wire Product Manufacturing,332618,332618,332618,332618,332618
+470,Machine Shops,332710,332710,332710,332710,332710
+471,Precision Turned Product Manufacturing,332721,332721,332721,332721,332721
+472,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",332722,332722,332722,332722,332722
+473,Metal Heat Treating,332811,332811,332811,332811,332811
+474,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",332812,332812,332812,332812,332812
+475,"Electroplating, Plating, Polishing, Anodizing, and Coloring",332813,332813,332813,332813,332813
+476,Industrial Valve Manufacturing,332911,332911,332911,332911,332911
+477,Fluid Power Valve and Hose Fitting Manufacturing,332912,332912,332912,332912,332912
+478,Plumbing Fixture Fitting and Trim Manufacturing,332913,332913,332913,332913,332913
+479,Other Metal Valve and Pipe Fitting Manufacturing,332919,332919,332919,332919,332919
+480,Ball and Roller Bearing Manufacturing,332991,332991,332991,332991,332991
+481,Small Arms Ammunition Manufacturing,332992,332992,332992,332992,332992
+482,Ammunition (except Small Arms) Manufacturing,332993,332993,332993,332993,332993
+483,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",332994,332994,332994,332994,332994
+484,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",332994,332994,332995,332995,332995
+485,Fabricated Pipe and Pipe Fitting Manufacturing,332996,332996,332996,332996,332996
+486,All Other Miscellaneous Fabricated Metal Product Manufacturing,332999,332999,332997,332997,332997
+487,All Other Miscellaneous Fabricated Metal Product Manufacturing,332999,332999,332998,332998,332998
+488,All Other Miscellaneous Fabricated Metal Product Manufacturing,332999,332999,332999,332999,332999
+489,Farm Machinery and Equipment Manufacturing,333111,333111,333111,333111,333111
+490,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,333112,333112,333112,333112,333112
+491,Construction Machinery Manufacturing,333120,333120,333120,333120,333120
+492,Mining Machinery and Equipment Manufacturing,333131,333131,333131,333131,333131
+493,Oil and Gas Field Machinery and Equipment Manufacturing,333132,333132,333132,333132,333132
+494,Food Product Machinery Manufacturing,333241,333241,333294,333294,333294
+495,Semiconductor Machinery Manufacturing,333242,333242,333295,333295,333295
+496,"Sawmill, Woodworking, and Paper Machinery Manufacturing",333243,333243,333210,333210,333210
+497,"Sawmill, Woodworking, and Paper Machinery Manufacturing",333243,333243,333291,333291,333291
+498,Printing Machinery and Equipment Manufacturing,333244,333244,333293,333293,333293
+499,Other Industrial Machinery Manufacturing,333249,333249,333220,333220,333220
+500,Other Industrial Machinery Manufacturing,333249,333249,333292,333292,333292
+501,Other Industrial Machinery Manufacturing,333249,333249,333298,333298,333298
+502,Other Industrial Machinery Manufacturing,333249,333249,333298,339111,339111
+503,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,333415,333415,333415,339111,339111
+504,Industrial Process Furnace and Oven Manufacturing,333994,333994,333994,339111,339111
+505,Scale and Balance Manufacturing,333997,333997,333997,339111,339111
+506,All Other Miscellaneous General Purpose Machinery Manufacturing,333999,333999,333999,339111,339111
+507,Institutional Furniture Manufacturing,337127,337127,337127,339111,339111
+508,Surgical Appliance and Supplies Manufacturing,339113,339113,339113,339111,339111
+509,Optical Instrument and Lens Manufacturing,333314,333314,333314,333314,333314
+510,Photographic and Photocopying Equipment Manufacturing,333316,333316,333315,333315,333315
+511,Photographic and Photocopying Equipment Manufacturing,333316,333316,334119,334119,334119
+512,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,334118,334118,334119,334119,334119
+513,Other Commercial and Service Industry Machinery Manufacturing,333318,333318,333311,333311,333311
+514,Other Commercial and Service Industry Machinery Manufacturing,333318,333318,333312,333312,333312
+515,Other Commercial and Service Industry Machinery Manufacturing,333318,333318,333313,333313,333313
+516,Other Commercial and Service Industry Machinery Manufacturing,333318,333318,333319,333319,333319
+517,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,333413,333413,333411,333411,333411
+518,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,333413,333413,333412,333412,333412
+519,Heating Equipment (except Warm Air Furnaces) Manufacturing,333414,333414,333414,333414,333414
+520,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,333415,333415,333415,333415,333415
+521,Industrial Mold Manufacturing,333511,333511,333511,333511,333511
+522,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",333514,333514,333514,333514,333514
+523,Cutting Tool and Machine Tool Accessory Manufacturing,333515,333515,333515,333515,333515
+524,Machine Tool Manufacturing,333517,333517,333512,333512,333512
+525,Machine Tool Manufacturing,333517,333517,333513,333513,333513
+526,Rolling Mill and Other Metalworking Machinery Manufacturing,333519,333519,333516,333516,333516
+527,Rolling Mill and Other Metalworking Machinery Manufacturing,333519,333519,333518,333518,333518
+528,Turbine and Turbine Generator Set Units Manufacturing,333611,333611,333611,333611,333611
+529,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",333612,333612,333612,333612,333612
+530,Mechanical Power Transmission Equipment Manufacturing,333613,333613,333613,333613,333613
+531,Other Engine Equipment Manufacturing,333618,333618,333618,333618,333618
+532,Air and Gas Compressor Manufacturing,333912,333912,333912,333912,333912
+533,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",333914,333911,333911,333911,333911
+534,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",333914,333913,333913,333913,333913
+535,Elevator and Moving Stairway Manufacturing,333921,333921,333921,333921,333921
+536,Conveyor and Conveying Equipment Manufacturing,333922,333922,333922,333922,333922
+537,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",333923,333923,333923,333923,333923
+538,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",333924,333924,333924,333924,333924
+539,Power-Driven Handtool Manufacturing,333991,333991,333991,333991,333991
+540,Welding and Soldering Equipment Manufacturing,333992,333992,333992,333992,333992
+541,Packaging Machinery Manufacturing,333993,333993,333993,333993,333993
+542,Industrial Process Furnace and Oven Manufacturing,333994,333994,333994,333994,333994
+543,Fluid Power Cylinder and Actuator Manufacturing,333995,333995,333995,333995,333995
+544,Fluid Power Pump and Motor Manufacturing,333996,333996,333996,333996,333996
+545,Scale and Balance Manufacturing,333997,333997,333997,333997,333997
+546,All Other Miscellaneous General Purpose Machinery Manufacturing,333999,333999,333999,333999,333999
+547,Electronic Computer Manufacturing,334111,334111,334111,334111,334111
+548,Computer Storage Device Manufacturing,334112,334112,334112,334112,334112
+549,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,334118,334118,334113,334113,334113
+550,Telephone Apparatus Manufacturing,334210,334210,334210,334210,334210
+551,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,334220,334220,334220,334220,334220
+552,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,334515,334515,334515,334220,334220
+553,Other Communications Equipment Manufacturing,334290,334290,334290,334290,334290
+554,Audio and Video Equipment Manufacturing,334310,334310,334310,334310,334310
+555,Bare Printed Circuit Board Manufacturing,334412,334412,334412,334412,334412
+556,Semiconductor and Related Device Manufacturing,334413,334413,334413,334413,334413
+557,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",334416,334416,334414,334414,334414
+558,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",334416,334416,334415,334415,334415
+559,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",334416,334416,334416,334416,334416
+560,Electronic Connector Manufacturing,334417,334417,334417,334417,334417
+561,Printed Circuit Assembly (Electronic Assembly) Manufacturing,334418,334418,334418,334418,334418
+562,Other Electronic Component Manufacturing,334419,334419,334411,334411,334411
+563,Other Electronic Component Manufacturing,334419,334419,334419,334419,334419
+564,Electromedical and Electrotherapeutic Apparatus Manufacturing,334510,334510,334510,334510,334510
+565,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",334511,334511,334511,334511,334511
+566,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",334512,334512,334512,334512,334512
+567,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",334513,334513,334513,334513,334513
+568,Totalizing Fluid Meter and Counting Device Manufacturing,334514,334514,334514,334514,334514
+569,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,334515,334515,334515,334515,334515
+570,Analytical Laboratory Instrument Manufacturing,334516,334516,334516,334516,334516
+571,Irradiation Apparatus Manufacturing,334517,334517,334517,334517,334517
+572,Other Measuring and Controlling Device Manufacturing,334519,334519,334518,334518,334518
+573,Other Measuring and Controlling Device Manufacturing,334519,334519,334519,334519,334519
+574,Blank Magnetic and Optical Recording Media Manufacturing,334613,334613,334613,334613,334613
+575,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing ",334614,334614,334611,334611,334611
+576,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing ",334614,334614,334612,334612,334612
+577,Electric Lamp Bulb and Part Manufacturing,335110,335110,335110,335110,335110
+578,Residential Electric Lighting Fixture Manufacturing,335121,335121,335121,335121,335121
+579,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",335122,335122,335122,335122,335122
+580,Other Lighting Equipment Manufacturing,335129,335129,335129,335129,335129
+581,Small Electrical Appliance Manufacturing,335210,335210,335211,335211,335211
+582,Small Electrical Appliance Manufacturing,335210,335210,335212,335212,335212
+583,Major Household Appliance Manufacturing,335220,335221,335221,335221,335221
+584,Major Household Appliance Manufacturing,335220,335222,335222,335222,335222
+585,Major Household Appliance Manufacturing,335220,335224,335224,335224,335224
+586,Major Household Appliance Manufacturing,335220,335228,335228,335228,335228
+587,"Power, Distribution, and Specialty Transformer Manufacturing",335311,335311,335311,335311,335311
+588,Motor and Generator Manufacturing,335312,335312,335312,335312,335312
+589,Switchgear and Switchboard Apparatus Manufacturing,335313,335313,335313,335313,335313
+590,Relay and Industrial Control Manufacturing,335314,335314,335314,335314,335314
+591,Storage Battery Manufacturing,335911,335911,335911,335911,335911
+592,Primary Battery Manufacturing,335912,335912,335912,335912,335912
+593,Fiber Optic Cable Manufacturing,335921,335921,335921,335921,335921
+594,Other Communication and Energy Wire Manufacturing,335929,335929,335929,335929,335929
+595,Current-Carrying Wiring Device Manufacturing,335931,335931,335931,335931,335931
+596,Noncurrent-Carrying Wiring Device Manufacturing,335932,335932,335932,335932,335932
+597,Carbon and Graphite Product Manufacturing,335991,335991,335991,335991,335991
+598,All Other Miscellaneous Electrical Equipment and Component Manufacturing,335999,335999,335999,335999,335999
+599,Automobile Manufacturing,336111,336111,336111,336111,336111
+600,Light Truck and Utility Vehicle Manufacturing,336112,336112,336112,336112,336112
+601,Heavy Duty Truck Manufacturing,336120,336120,336120,336120,336120
+602,Motor Vehicle Body Manufacturing,336211,336211,336211,336211,336211
+603,Truck Trailer Manufacturing,336212,336212,336212,336212,336212
+604,Motor Home Manufacturing,336213,336213,336213,336213,336213
+605,Travel Trailer and Camper Manufacturing,336214,336214,336214,336214,336214
+606,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,336310,336310,336311,336311,336311
+607,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,336310,336310,336312,336312,336312
+608,Motor Vehicle Electrical and Electronic Equipment Manufacturing,336320,336320,336321,336321,336321
+609,Motor Vehicle Electrical and Electronic Equipment Manufacturing,336320,336320,336322,336322,336322
+610,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,336330,336330,336330,336330,336330
+611,Motor Vehicle Brake System Manufacturing,336340,336340,336340,336340,336340
+612,Motor Vehicle Transmission and Power Train Parts Manufacturing,336350,336350,336350,336350,336350
+613,Motor Vehicle Seating and Interior Trim Manufacturing,336360,336360,336360,336360,336360
+614,Motor Vehicle Metal Stamping,336370,336370,336370,336370,336370
+615,Other Motor Vehicle Parts Manufacturing,336390,336390,336391,336391,336391
+616,Other Motor Vehicle Parts Manufacturing,336390,336390,336399,336399,336399
+617,Aircraft Manufacturing,336411,336411,336411,336411,336411
+618,Aircraft Engine and Engine Parts Manufacturing,336412,336412,336412,336412,336412
+619,Other Aircraft Parts and Auxiliary Equipment Manufacturing,336413,336413,336413,336413,336413
+620,Guided Missile and Space Vehicle Manufacturing,336414,336414,336414,336414,336414
+621,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,336415,336415,336415,336415,336415
+622,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,336419,336419,336419,336419,336419
+623,Railroad Rolling Stock Manufacturing,336510,336510,336510,336510,336510
+624,Ship Building and Repairing,336611,336611,336611,336611,336611
+625,Boat Building,336612,336612,336612,336612,336612
+626,"Motorcycle, Bicycle, and Parts Manufacturing",336991,336991,336991,336991,336991
+627,"Military Armored Vehicle, Tank, and Tank Component Manufacturing",336992,336992,336992,336992,336992
+628,All Other Transportation Equipment Manufacturing,336999,336999,336999,336999,336999
+629,Wood Kitchen Cabinet and Countertop Manufacturing,337110,337110,337110,337110,337110
+630,Upholstered Household Furniture Manufacturing,337121,337121,337121,337121,337121
+631,Nonupholstered Wood Household Furniture Manufacturing,337122,337122,337122,337122,337122
+632,Metal Household Furniture Manufacturing,337124,337124,337124,337124,337124
+633,Household Furniture (except Wood and Metal) Manufacturing,337125,337125,337125,337125,337125
+634,Institutional Furniture Manufacturing,337127,337127,337127,337127,337127
+635,Wood Office Furniture Manufacturing,337211,337211,337211,337211,337211
+636,Custom Architectural Woodwork and Millwork Manufacturing,337212,337212,337212,337212,337212
+637,Office Furniture (except Wood) Manufacturing,337214,337214,337214,337214,337214
+638,"Showcase, Partition, Shelving, and Locker Manufacturing",337215,337215,337215,337215,337215
+639,Mattress Manufacturing,337910,337910,337910,337910,337910
+640,Blind and Shade Manufacturing,337920,337920,337920,337920,337920
+641,Surgical and Medical Instrument Manufacturing,339112,339112,339112,339112,339112
+642,Surgical Appliance and Supplies Manufacturing,339113,339113,339113,339113,339113
+643,Dental Equipment and Supplies Manufacturing,339114,339114,339114,339114,339114
+644,Ophthalmic Goods Manufacturing,339115,339115,339115,339115,339115
+645,Dental Laboratories,339116,339116,339116,339116,339116
+646,Jewelry and Silverware Manufacturing,339910,339910,339911,339911,339911
+647,Jewelry and Silverware Manufacturing,339910,339910,339912,339912,339912
+648,Jewelry and Silverware Manufacturing,339910,339910,339913,339913,339913
+649,Jewelry and Silverware Manufacturing,339910,339910,339914,339914,339914
+650,Sporting and Athletic Goods Manufacturing,339920,339920,339920,339920,339920
+651,"Doll, Toy, and Game Manufacturing",339930,339930,339931,339931,339931
+652,"Doll, Toy, and Game Manufacturing",339930,339930,339932,339932,339932
+653,Office Supplies (except Paper) Manufacturing,339940,339940,339941,339941,339941
+654,Office Supplies (except Paper) Manufacturing,339940,339940,339942,339942,339942
+655,Office Supplies (except Paper) Manufacturing,339940,339940,339943,339943,339943
+656,Office Supplies (except Paper) Manufacturing,339940,339940,339944,339944,339944
+657,Sign Manufacturing,339950,339950,339950,339950,339950
+658,"Gasket, Packing, and Sealing Device Manufacturing",339991,339991,339991,339991,339991
+659,Musical Instrument Manufacturing,339992,339992,339992,339992,339992
+660,"Fastener, Button, Needle, and Pin Manufacturing",339993,339993,339993,339993,339993
+661,"Broom, Brush, and Mop Manufacturing",339994,339994,339994,339994,339994
+662,Burial Casket Manufacturing,339995,339995,339995,339995,339995
+663,All Other Miscellaneous Manufacturing,339999,339999,339999,339999,339999
+664,Automobile and Other Motor Vehicle Merchant Wholesalers,423110,423110,423110,423110,421110
+665,Motor Vehicle Supplies and New Parts Merchant Wholesalers,423120,423120,423120,423120,421120
+666,Tire and Tube Merchant Wholesalers,423130,423130,423130,423130,421130
+667,Motor Vehicle Parts (Used) Merchant Wholesalers,423140,423140,423140,423140,421140
+668,Furniture Merchant Wholesalers,423210,423210,423210,423210,421210
+669,Home Furnishing Merchant Wholesalers,423220,423220,423220,423220,421220
+670,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",423310,423310,423310,423310,421310
+671,"Brick, Stone, and Related Construction Material Merchant Wholesalers",423320,423320,423320,423320,421320
+672,"Roofing, Siding, and Insulation Material Merchant Wholesalers",423330,423330,423330,423330,421330
+673,Other Construction Material Merchant Wholesalers,423390,423390,423390,423390,421390
+674,Photographic Equipment and Supplies Merchant Wholesalers,423410,423410,423410,423410,421410
+675,Office Equipment Merchant Wholesalers,423420,423420,423420,423420,421420
+676,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,423430,423430,423430,423430,421430
+677,Other Commercial Equipment Merchant Wholesalers,423440,423440,423440,423440,421440
+678,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",423450,423450,423450,423450,421450
+679,Ophthalmic Goods Merchant Wholesalers,423460,423460,423460,423460,421460
+680,Other Professional Equipment and Supplies Merchant Wholesalers,423490,423490,423490,423490,421490
+681,Metal Service Centers and Other Metal Merchant Wholesalers,423510,423510,423510,423510,421510
+682,Coal and Other Mineral and Ore Merchant Wholesalers,423520,423520,423520,423520,421520
+683,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",423610,423610,423610,423610,421610
+684,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",423620,423620,423620,423620,421620
+685,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,423720,423720,423620,423620,421620
+686,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",423620,423620,423720,423720,421720
+687,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,423720,423720,423720,423720,421720
+688,Other Electronic Parts and Equipment Merchant Wholesalers,423690,423690,423690,423690,421690
+689,Hardware Merchant Wholesalers,423710,423710,423710,423710,421710
+690,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,423730,423730,423730,423730,421730
+691,Refrigeration Equipment and Supplies Merchant Wholesalers,423740,423740,423740,423740,421740
+692,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,423810,423810,423810,423810,421810
+693,Farm and Garden Machinery and Equipment Merchant Wholesalers,423820,423820,423820,423820,421820
+694,Industrial Machinery and Equipment Merchant Wholesalers,423830,423830,423830,423830,421830
+695,Industrial Supplies Merchant Wholesalers,423840,423840,423840,423840,421840
+696,Service Establishment Equipment and Supplies Merchant Wholesalers,423850,423850,423850,423850,421850
+697,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,423860,423860,423860,423860,421860
+698,Sporting and Recreational Goods and Supplies Merchant Wholesalers,423910,423910,423910,423910,421910
+699,Toy and Hobby Goods and Supplies Merchant Wholesalers,423920,423920,423920,423920,421920
+700,Recyclable Material Merchant Wholesalers,423930,423930,423930,423930,421930
+701,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",423940,423940,423940,423940,421940
+702,Other Miscellaneous Durable Goods Merchant Wholesalers,423990,423990,423990,423990,421990
+703,Printing and Writing Paper Merchant Wholesalers,424110,424110,424110,424110,422110
+704,Stationery and Office Supplies Merchant Wholesalers,424120,424120,424120,424120,422120
+705,Industrial and Personal Service Paper Merchant Wholesalers,424130,424130,424130,424130,422130
+706,Drugs and Druggists' Sundries Merchant Wholesalers,424210,424210,424210,424210,422210
+707,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",424310,424310,424310,424310,422310
+708,Men's and Boys' Clothing and Furnishings Merchant Wholesalers,424320,424320,424320,424320,422320
+709,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",424330,424330,424330,424330,422330
+710,Footwear Merchant Wholesalers,424340,424340,424340,424340,422340
+711,General Line Grocery Merchant Wholesalers,424410,424410,424410,424410,422410
+712,Packaged Frozen Food Merchant Wholesalers,424420,424420,424420,424420,422420
+713,Dairy Product (except Dried or Canned) Merchant Wholesalers,424430,424430,424430,424430,422430
+714,Poultry and Poultry Product Merchant Wholesalers,424440,424440,424440,424440,422440
+715,Confectionery Merchant Wholesalers,424450,424450,424450,424450,422450
+716,Fish and Seafood Merchant Wholesalers,424460,424460,424460,424460,422460
+717,Meat and Meat Product Merchant Wholesalers,424470,424470,424470,424470,422470
+718,Fresh Fruit and Vegetable Merchant Wholesalers,424480,424480,424480,424480,422480
+719,Other Grocery and Related Products Merchant Wholesalers,424490,424490,424490,424490,422490
+720,Grain and Field Bean Merchant Wholesalers,424510,424510,424510,424510,422510
+721,Livestock Merchant Wholesalers,424520,424520,424520,424520,422520
+722,Other Farm Product Raw Material Merchant Wholesalers,424590,424590,424590,424590,422590
+723,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,424610,424610,424610,424610,422610
+724,Other Chemical and Allied Products Merchant Wholesalers,424690,424690,424690,424690,422690
+725,Petroleum Bulk Stations and Terminals,424710,424710,424710,424710,422710
+726,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),424720,424720,424720,424720,422720
+727,Beer and Ale Merchant Wholesalers,424810,424810,424810,424810,422810
+728,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,424820,424820,424820,424820,422820
+729,Farm Supplies Merchant Wholesalers,424910,424910,424910,424910,422910
+730,"Book, Periodical, and Newspaper Merchant Wholesalers",424920,424920,424920,424920,422920
+731,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",424930,424930,424930,424930,422930
+732,Tobacco and Tobacco Product Merchant Wholesalers,424940,424940,424940,424940,422940
+733,"Paint, Varnish, and Supplies Merchant Wholesalers",424950,424950,424950,424950,422950
+734,Other Miscellaneous Nondurable Goods Merchant Wholesalers,424990,424990,424990,424990,422990
+735,Business to Business Electronic Markets,425110,425110,425110,425110,421110
+736,Business to Business Electronic Markets,425110,425110,425110,425110,421120
+737,Business to Business Electronic Markets,425110,425110,425110,425110,421130
+738,Business to Business Electronic Markets,425110,425110,425110,425110,421140
+739,Business to Business Electronic Markets,425110,425110,425110,425110,421210
+740,Business to Business Electronic Markets,425110,425110,425110,425110,421220
+741,Business to Business Electronic Markets,425110,425110,425110,425110,421310
+742,Business to Business Electronic Markets,425110,425110,425110,425110,421320
+743,Business to Business Electronic Markets,425110,425110,425110,425110,421330
+744,Business to Business Electronic Markets,425110,425110,425110,425110,421390
+745,Business to Business Electronic Markets,425110,425110,425110,425110,421410
+746,Business to Business Electronic Markets,425110,425110,425110,425110,421420
+747,Business to Business Electronic Markets,425110,425110,425110,425110,421430
+748,Business to Business Electronic Markets,425110,425110,425110,425110,421440
+749,Business to Business Electronic Markets,425110,425110,425110,425110,421450
+750,Business to Business Electronic Markets,425110,425110,425110,425110,421460
+751,Business to Business Electronic Markets,425110,425110,425110,425110,421490
+752,Business to Business Electronic Markets,425110,425110,425110,425110,421510
+753,Business to Business Electronic Markets,425110,425110,425110,425110,421520
+754,Business to Business Electronic Markets,425110,425110,425110,425110,421610
+755,Business to Business Electronic Markets,425110,425110,425110,425110,421620
+756,Business to Business Electronic Markets,425110,425110,425110,425110,421690
+757,Business to Business Electronic Markets,425110,425110,425110,425110,421710
+758,Business to Business Electronic Markets,425110,425110,425110,425110,421720
+759,Business to Business Electronic Markets,425110,425110,425110,425110,421730
+760,Business to Business Electronic Markets,425110,425110,425110,425110,421740
+761,Business to Business Electronic Markets,425110,425110,425110,425110,421810
+762,Business to Business Electronic Markets,425110,425110,425110,425110,421820
+763,Business to Business Electronic Markets,425110,425110,425110,425110,421830
+764,Business to Business Electronic Markets,425110,425110,425110,425110,421840
+765,Business to Business Electronic Markets,425110,425110,425110,425110,421850
+766,Business to Business Electronic Markets,425110,425110,425110,425110,421860
+767,Business to Business Electronic Markets,425110,425110,425110,425110,421910
+768,Business to Business Electronic Markets,425110,425110,425110,425110,421920
+769,Business to Business Electronic Markets,425110,425110,425110,425110,421930
+770,Business to Business Electronic Markets,425110,425110,425110,425110,421940
+771,Business to Business Electronic Markets,425110,425110,425110,425110,421990
+772,Business to Business Electronic Markets,425110,425110,425110,425110,422110
+773,Business to Business Electronic Markets,425110,425110,425110,425110,422120
+774,Business to Business Electronic Markets,425110,425110,425110,425110,422130
+775,Business to Business Electronic Markets,425110,425110,425110,425110,422210
+776,Business to Business Electronic Markets,425110,425110,425110,425110,422310
+777,Business to Business Electronic Markets,425110,425110,425110,425110,422320
+778,Business to Business Electronic Markets,425110,425110,425110,425110,422330
+779,Business to Business Electronic Markets,425110,425110,425110,425110,422340
+780,Business to Business Electronic Markets,425110,425110,425110,425110,422410
+781,Business to Business Electronic Markets,425110,425110,425110,425110,422420
+782,Business to Business Electronic Markets,425110,425110,425110,425110,422430
+783,Business to Business Electronic Markets,425110,425110,425110,425110,422440
+784,Business to Business Electronic Markets,425110,425110,425110,425110,422450
+785,Business to Business Electronic Markets,425110,425110,425110,425110,422460
+786,Business to Business Electronic Markets,425110,425110,425110,425110,422470
+787,Business to Business Electronic Markets,425110,425110,425110,425110,422480
+788,Business to Business Electronic Markets,425110,425110,425110,425110,422490
+789,Business to Business Electronic Markets,425110,425110,425110,425110,422510
+790,Business to Business Electronic Markets,425110,425110,425110,425110,422520
+791,Business to Business Electronic Markets,425110,425110,425110,425110,422590
+792,Business to Business Electronic Markets,425110,425110,425110,425110,422610
+793,Business to Business Electronic Markets,425110,425110,425110,425110,422690
+794,Business to Business Electronic Markets,425110,425110,425110,425110,422720
+795,Business to Business Electronic Markets,425110,425110,425110,425110,422810
+796,Business to Business Electronic Markets,425110,425110,425110,425110,422820
+797,Business to Business Electronic Markets,425110,425110,425110,425110,422910
+798,Business to Business Electronic Markets,425110,425110,425110,425110,422920
+799,Business to Business Electronic Markets,425110,425110,425110,425110,422930
+800,Business to Business Electronic Markets,425110,425110,425110,425110,422940
+801,Business to Business Electronic Markets,425110,425110,425110,425110,422950
+802,Business to Business Electronic Markets,425110,425110,425110,425110,422990
+803,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421110
+804,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421120
+805,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421130
+806,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421140
+807,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421210
+808,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421220
+809,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421310
+810,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421320
+811,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421330
+812,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421390
+813,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421410
+814,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421420
+815,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421430
+816,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421440
+817,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421450
+818,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421460
+819,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421490
+820,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421510
+821,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421520
+822,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421610
+823,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421620
+824,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421690
+825,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421710
+826,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421720
+827,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421730
+828,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421740
+829,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421810
+830,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421820
+831,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421830
+832,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421840
+833,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421850
+834,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421860
+835,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421910
+836,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421920
+837,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421930
+838,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421940
+839,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,421990
+840,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422110
+841,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422120
+842,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422130
+843,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422210
+844,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422310
+845,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422320
+846,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422330
+847,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422340
+848,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422410
+849,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422420
+850,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422430
+851,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422440
+852,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422450
+853,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422460
+854,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422470
+855,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422480
+856,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422490
+857,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422510
+858,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422520
+859,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422590
+860,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422610
+861,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422690
+862,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422720
+863,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422810
+864,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422820
+865,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422910
+866,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422920
+867,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422930
+868,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422940
+869,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422950
+870,Wholesale Trade Agents and Brokers,425120,425120,425120,425120,422990
+871,New Car Dealers,441110,441110,441110,441110,441110
+872,Used Car Dealers,441120,441120,441120,441120,441120
+873,Recreational Vehicle Dealers,441210,441210,441210,441210,441210
+874,Boat Dealers,441222,441222,441222,441222,441222
+875,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",441228,441228,441221,441221,441221
+876,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",441228,441228,441229,441229,441229
+877,Automotive Parts and Accessories Stores,441310,441310,441310,441310,441310
+878,Tire Dealers,441320,441320,441320,441320,441320
+879,Furniture Stores,442110,442110,442110,442110,442110
+880,Floor Covering Stores,442210,442210,442210,442210,442210
+881,Window Treatment Stores,442291,442291,442291,442291,442291
+882,All Other Home Furnishings Stores,442299,442299,442299,442299,442299
+883,Household Appliance Stores,443141,443141,443111,443111,443111
+884,Electronics Stores,443142,443142,443112,443112,443112
+885,Electronics Stores,443142,443142,443120,443120,443120
+886,Electronics Stores,443142,443142,443130,443130,443130
+887,Electronics Stores,443142,443142,451220,451220,451220
+888,Home Centers,444110,444110,444110,444110,444110
+889,Paint and Wallpaper Stores,444120,444120,444120,444120,444120
+890,Hardware Stores,444130,444130,444130,444130,444130
+891,Other Building Material Dealers,444190,444190,444190,444190,444190
+892,Outdoor Power Equipment Stores,444210,444210,444210,444210,444210
+893,"Nursery, Garden Center, and Farm Supply Stores",444220,444220,444220,444220,444220
+894,Supermarkets and Other Grocery (except Convenience) Stores,445110,445110,445110,445110,445110
+895,Convenience Stores,445120,445120,445120,445120,445120
+896,Meat Markets,445210,445210,445210,445210,445210
+897,Fish and Seafood Markets,445220,445220,445220,445220,445220
+898,Fruit and Vegetable Markets,445230,445230,445230,445230,445230
+899,Baked Goods Stores,445291,445291,445291,445291,445291
+900,Confectionery and Nut Stores,445292,445292,445292,445292,445292
+901,All Other Specialty Food Stores,445299,445299,445299,445299,445299
+902,"Beer, Wine, and Liquor Stores",445310,445310,445310,445310,445310
+903,Pharmacies and Drug Stores,446110,446110,446110,446110,446110
+904,"Cosmetics, Beauty Supplies, and Perfume Stores",446120,446120,446120,446120,446120
+905,Optical Goods Stores,446130,446130,446130,446130,446130
+906,Food (Health) Supplement Stores,446191,446191,446191,446191,446191
+907,All Other Health and Personal Care Stores,446199,446199,446199,446199,446199
+908,Gasoline Stations with Convenience Stores,447110,447110,447110,447110,447110
+909,Other Gasoline Stations,447190,447190,447190,447190,447190
+910,Men's Clothing Stores,448110,448110,448110,448110,448110
+911,Women's Clothing Stores,448120,448120,448120,448120,448120
+912,Children's and Infants' Clothing Stores,448130,448130,448130,448130,448130
+913,Family Clothing Stores,448140,448140,448140,448140,448140
+914,Clothing Accessories Stores,448150,448150,448150,448150,448150
+915,Other Clothing Stores,448190,448190,448190,448190,448190
+916,Shoe Stores,448210,448210,448210,448210,448210
+917,Jewelry Stores,448310,448310,448310,448310,448310
+918,Luggage and Leather Goods Stores,448320,448320,448320,448320,448320
+919,Sporting Goods Stores,451110,451110,451110,451110,451110
+920,"Hobby, Toy, and Game Stores",451120,451120,451120,451120,451120
+921,"Sewing, Needlework, and Piece Goods Stores",451130,451130,451130,451130,451130
+922,Musical Instrument and Supplies Stores,451140,451140,451140,451140,451140
+923,Book Stores,451211,451211,451211,451211,451211
+924,News Dealers and Newsstands,451212,451212,451212,451212,451212
+925,Department Stores,452210,452111,452111,452111,452110
+926,Department Stores,452210,452112,452112,452112,452110
+927,Warehouse Clubs and Supercenters,452311,452112,452112,452112,452110
+928,Warehouse Clubs and Supercenters,452311,452910,452910,452910,452910
+929,All Other General Merchandise Stores,452319,452990,452990,452990,452990
+930,Florists,453110,453110,453110,453110,453110
+931,Office Supplies and Stationery Stores,453210,453210,453210,453210,453210
+932,"Gift, Novelty, and Souvenir Stores",453220,453220,453220,453220,453220
+933,Used Merchandise Stores,453310,453310,453310,453310,453310
+934,Pet and Pet Supplies Stores,453910,453910,453910,453910,453910
+935,Art Dealers,453920,453920,453920,453920,453920
+936,Manufactured (Mobile) Home Dealers,453930,453930,453930,453930,453930
+937,Tobacco Stores,453991,453991,453991,453991,453991
+938,All Other Miscellaneous Store Retailers (except Tobacco Stores),453998,453998,453998,453998,453998
+939,Electronic Shopping and Mail-Order Houses,454110,454111,454111,454111,454110
+940,Electronic Shopping and Mail-Order Houses,454110,454112,454112,454112,454110
+941,Electronic Shopping and Mail-Order Houses,454110,454113,454113,454113,454110
+942,Vending Machine Operators,454210,454210,454210,454210,454210
+943,Fuel Dealers,454310,454310,454311,454311,454311
+944,Fuel Dealers,454310,454310,454312,454312,454312
+945,Fuel Dealers,454310,454310,454319,454319,454319
+946,Other Direct Selling Establishments,454390,454390,454390,454390,454390
+947,Scheduled Passenger Air Transportation,481111,481111,481111,481111,481111
+948,Scheduled Freight Air Transportation,481112,481112,481112,481112,481112
+949,Nonscheduled Chartered Passenger Air Transportation,481211,481211,481211,481211,481211
+950,Nonscheduled Chartered Freight Air Transportation,481212,481212,481212,481212,481212
+951,Other Nonscheduled Air Transportation,481219,481219,481219,481219,481219
+952,Line-Haul Railroads,482111,482111,482111,482111,482111
+953,Short Line Railroads,482112,482112,482112,482112,482112
+954,Deep Sea Freight Transportation,483111,483111,483111,483111,483111
+955,Deep Sea Passenger Transportation,483112,483112,483112,483112,483112
+956,Coastal and Great Lakes Freight Transportation,483113,483113,483113,483113,483113
+957,Coastal and Great Lakes Passenger Transportation,483114,483114,483114,483114,483114
+958,Inland Water Freight Transportation,483211,483211,483211,483211,483211
+959,Inland Water Passenger Transportation,483212,483212,483212,483212,483212
+960,"General Freight Trucking, Local",484110,484110,484110,484110,484110
+961,"General Freight Trucking, Long-Distance, Truckload",484121,484121,484121,484121,484121
+962,"General Freight Trucking, Long-Distance, Less Than Truckload",484122,484122,484122,484122,484122
+963,Used Household and Office Goods Moving,484210,484210,484210,484210,484210
+964,"Specialized Freight (except Used Goods) Trucking, Local",484220,484220,484220,484220,484220
+965,"Specialized Freight (except Used Goods) Trucking, Long-Distance",484230,484230,484230,484230,484230
+966,Mixed Mode Transit Systems,485111,485111,485111,485111,485111
+967,Commuter Rail Systems,485112,485112,485112,485112,485112
+968,Bus and Other Motor Vehicle Transit Systems,485113,485113,485113,485113,485113
+969,Other Urban Transit Systems,485119,485119,485119,485119,485119
+970,Interurban and Rural Bus Transportation,485210,485210,485210,485210,485210
+971,Taxi Service,485310,485310,485310,485310,485310
+972,Limousine Service,485320,485320,485320,485320,485320
+973,School and Employee Bus Transportation,485410,485410,485410,485410,485410
+974,Charter Bus Industry,485510,485510,485510,485510,485510
+975,Special Needs Transportation,485991,485991,485991,485991,485991
+976,All Other Transit and Ground Passenger Transportation,485999,485999,485999,485999,485999
+977,Pipeline Transportation of Crude Oil,486110,486110,486110,486110,486110
+978,Pipeline Transportation of Natural Gas,486210,486210,486210,486210,486210
+979,Pipeline Transportation of Refined Petroleum Products,486910,486910,486910,486910,486910
+980,All Other Pipeline Transportation,486990,486990,486990,486990,486990
+981,"Scenic and Sightseeing Transportation, Land",487110,487110,487110,487110,487110
+982,"Scenic and Sightseeing Transportation, Water",487210,487210,487210,487210,487210
+983,"Scenic and Sightseeing Transportation, Other",487990,487990,487990,487990,487990
+984,Air Traffic Control,488111,488111,488111,488111,488111
+985,Other Airport Operations,488119,488119,488119,488119,488119
+986,Other Support Activities for Air Transportation,488190,488190,488190,488190,488190
+987,Support Activities for Rail Transportation,488210,488210,488210,488210,488210
+988,Port and Harbor Operations,488310,488310,488310,488310,488310
+989,Marine Cargo Handling,488320,488320,488320,488320,488320
+990,Navigational Services to Shipping,488330,488330,488330,488330,488330
+991,Other Support Activities for Water Transportation,488390,488390,488390,488390,488390
+992,Motor Vehicle Towing,488410,488410,488410,488410,488410
+993,Other Support Activities for Road Transportation,488490,488490,488490,488490,488490
+994,Freight Transportation Arrangement,488510,488510,488510,488510,488510
+995,Packing and Crating,488991,488991,488991,488991,488991
+996,All Other Support Activities for Transportation,488999,488999,488999,488999,488999
+997,Postal Service,491110,491110,491110,491110,491110
+998,Couriers and Express Delivery Services,492110,492110,492110,492110,492110
+999,Local Messengers and Local Delivery,492210,492210,492210,492210,492210
+1000,General Warehousing and Storage,493110,493110,493110,493110,493110
+1001,Refrigerated Warehousing and Storage,493120,493120,493120,493120,493120
+1002,Farm Product Warehousing and Storage,493130,493130,493130,493130,493130
+1003,Other Warehousing and Storage,493190,493190,493190,493190,493190
+1004,Newspaper Publishers,511110,511110,511110,511110,511110
+1005,Periodical Publishers,511120,511120,511120,511120,511120
+1006,Book Publishers,511130,511130,511130,511130,511130
+1007,Book Publishers,511130,511130,511130,511130,511199
+1008,Directory and Mailing List Publishers,511140,511140,511140,511140,511140
+1009,Greeting Card Publishers,511191,511191,511191,511191,511191
+1010,All Other Publishers,511199,511199,511199,511199,511199
+1011,Software Publishers,511210,511210,511210,511210,511210
+1012,Motion Picture and Video Production,512110,512110,512110,512110,512110
+1013,Motion Picture and Video Distribution,512120,512120,512120,512120,512120
+1014,Motion Picture Theaters (except Drive-Ins),512131,512131,512131,512131,512131
+1015,Drive-In Motion Picture Theaters,512132,512132,512132,512132,512132
+1016,Teleproduction and Other Postproduction Services,512191,512191,512191,512191,512191
+1017,Other Motion Picture and Video Industries,512199,512199,512199,512199,512199
+1018,Music Publishers,512230,512230,512230,512230,512230
+1019,Sound Recording Studios,512240,512240,512240,512240,512240
+1020,Record Production and Distribution,512250,512210,512210,512210,512210
+1021,Record Production and Distribution,512250,512220,512220,512220,512220
+1022,Other Sound Recording Industries,512290,512290,512290,512290,512290
+1023,Radio Networks,515111,515111,515111,515111,513111
+1024,Radio Stations,515112,515112,515112,515112,513112
+1025,Television Broadcasting,515120,515120,515120,515120,513120
+1026,Cable and Other Subscription Programming,515210,515210,515210,515210,513210
+1027,Wired Telecommunications Carriers,517311,517110,517110,517110,513310
+1028,Wired Telecommunications Carriers,517311,517110,517110,517510,513220
+1029,Wired Telecommunications Carriers,517311,517110,517110,518111,514191
+1030,All Other Telecommunications,517919,517919,517919,518111,514191
+1031,Wireless Telecommunications Carriers (except Satellite),517312,517210,517210,517211,513321
+1032,Wireless Telecommunications Carriers (except Satellite),517312,517210,517210,517212,513322
+1033,Satellite Telecommunications,517410,517410,517410,517410,513340
+1034,Telecommunications Resellers,517911,517911,517911,517310,513330
+1035,All Other Telecommunications,517919,517919,517919,517910,513390
+1036,"Data Processing, Hosting, and Related Services",518210,518210,518210,518210,514210
+1037,News Syndicates,519110,519110,519110,519110,514110
+1038,Libraries and Archives,519120,519120,519120,519120,514120
+1039,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,511110
+1040,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,511120
+1041,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,511130
+1042,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,511140
+1043,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,511191
+1044,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,511199
+1045,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,516110,514199
+1046,Internet Publishing and Broadcasting and Web Search Portals,519130,519130,519130,518112,514199
+1047,All Other Information Services,519190,519190,519190,519190,514199
+1048,Monetary Authorities-Central Bank,521110,521110,521110,521110,521110
+1049,Commercial Banking,522110,522110,522110,522110,522110
+1050,Savings Institutions,522120,522120,522120,522120,522120
+1051,Credit Unions,522130,522130,522130,522130,522130
+1052,Other Depository Credit Intermediation,522190,522190,522190,522190,522190
+1053,Credit Card Issuing,522210,522210,522210,522210,522210
+1054,Sales Financing,522220,522220,522220,522220,522220
+1055,Consumer Lending,522291,522291,522291,522291,522291
+1056,Real Estate Credit,522292,522292,522292,522292,522292
+1057,International Trade Financing,522293,522293,522293,522293,522293
+1058,Secondary Market Financing,522294,522294,522294,522294,522294
+1059,All Other Nondepository Credit Intermediation,522298,522298,522298,522298,522298
+1060,Mortgage and Nonmortgage Loan Brokers,522310,522310,522310,522310,522310
+1061,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",522320,522320,522320,522320,522320
+1062,Other Activities Related to Credit Intermediation,522390,522390,522390,522390,522390
+1063,Investment Banking and Securities Dealing,523110,523110,523110,523110,523110
+1064,Securities Brokerage,523120,523120,523120,523120,523120
+1065,Commodity Contracts Dealing,523130,523130,523130,523130,523130
+1066,Commodity Contracts Brokerage,523140,523140,523140,523140,523140
+1067,Securities and Commodity Exchanges,523210,523210,523210,523210,523210
+1068,Miscellaneous Intermediation,523910,523910,523910,523910,523910
+1069,Portfolio Management,523920,523920,523920,523920,523920
+1070,Investment Advice,523930,523930,523930,523930,523930
+1071,"Trust, Fiduciary, and Custody Activities",523991,523991,523991,523991,523991
+1072,Miscellaneous Financial Investment Activities,523999,523999,523999,523999,523999
+1073,Direct Life Insurance Carriers,524113,524113,524113,524113,524113
+1074,Direct Health and Medical Insurance Carriers,524114,524114,524114,524114,524114
+1075,Direct Property and Casualty Insurance Carriers,524126,524126,524126,524126,524126
+1076,Direct Title Insurance Carriers,524127,524127,524127,524127,524127
+1077,"Other Direct Insurance (except Life, Health, and Medical) Carriers",524128,524128,524128,524128,524128
+1078,Reinsurance Carriers,524130,524130,524130,524130,524130
+1079,Insurance Agencies and Brokerages,524210,524210,524210,524210,524210
+1080,Claims Adjusting,524291,524291,524291,524291,524291
+1081,Third Party Administration of Insurance and Pension Funds,524292,524292,524292,524292,524292
+1082,All Other Insurance Related Activities,524298,524298,524298,524298,524298
+1083,Pension Funds,525110,525110,525110,525110,525110
+1084,Health and Welfare Funds,525120,525120,525120,525120,525120
+1085,Other Insurance Funds,525190,525190,525190,525190,525190
+1086,Open-End Investment Funds,525910,525910,525910,525910,525910
+1087,"Trusts, Estates, and Agency Accounts",525920,525920,525920,525920,525920
+1088,Other Financial Vehicles,525990,525990,525990,525930,525930
+1089,Lessors of Residential Buildings and Dwellings,531110,531110,531110,525930,525930
+1090,Lessors of Nonresidential Buildings (except Miniwarehouses),531120,531120,531120,525930,525930
+1091,Lessors of Miniwarehouses and Self-Storage Units,531130,531130,531130,525930,525930
+1092,Lessors of Other Real Estate Property,531190,531190,531190,525930,525930
+1093,Other Financial Vehicles,525990,525990,525990,525990,525990
+1094,Lessors of Residential Buildings and Dwellings,531110,531110,531110,531110,531110
+1095,Lessors of Nonresidential Buildings (except Miniwarehouses),531120,531120,531120,531120,531120
+1096,Lessors of Miniwarehouses and Self-Storage Units,531130,531130,531130,531130,531130
+1097,Lessors of Other Real Estate Property,531190,531190,531190,531190,531190
+1098,Offices of Real Estate Agents and Brokers,531210,531210,531210,531210,531210
+1099,Residential Property Managers,531311,531311,531311,531311,531311
+1100,Nonresidential Property Managers,531312,531312,531312,531312,531312
+1101,Offices of Real Estate Appraisers,531320,531320,531320,531320,531320
+1102,Other Activities Related to Real Estate,531390,531390,531390,531390,531390
+1103,Passenger Car Rental,532111,532111,532111,532111,532111
+1104,Passenger Car Leasing,532112,532112,532112,532112,532112
+1105,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",532120,532120,532120,532120,532120
+1106,Consumer Electronics and Appliances Rental,532210,532210,532210,532210,532210
+1107,Formal Wear and Costume Rental,532281,532220,532220,532220,532220
+1108,Video Tape and Disc Rental,532282,532230,532230,532230,532230
+1109,Home Health Equipment Rental,532283,532291,532291,532291,532291
+1110,Recreational Goods Rental,532284,532292,532292,532292,532292
+1111,All Other Consumer Goods Rental,532289,532299,532299,532299,532299
+1112,General Rental Centers,532310,532310,532310,532310,532310
+1113,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",532411,532411,532411,532411,532411
+1114,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",532412,532412,532412,532412,532412
+1115,Office Machinery and Equipment Rental and Leasing,532420,532420,532420,532420,532420
+1116,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,532490,532490,532490,532490,532490
+1117,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),533110,533110,533110,533110,533110
+1118,Offices of Lawyers,541110,541110,541110,541110,541110
+1119,Offices of Notaries,541120,541120,541120,541120,541120
+1120,Title Abstract and Settlement Offices,541191,541191,541191,541191,541191
+1121,All Other Legal Services,541199,541199,541199,541199,541199
+1122,Offices of Certified Public Accountants,541211,541211,541211,541211,541211
+1123,Tax Preparation Services,541213,541213,541213,541213,541213
+1124,Payroll Services,541214,541214,541214,541214,541214
+1125,Other Accounting Services,541219,541219,541219,541219,541219
+1126,Architectural Services,541310,541310,541310,541310,541310
+1127,Landscape Architectural Services,541320,541320,541320,541320,541320
+1128,Engineering Services,541330,541330,541330,541330,541330
+1129,Drafting Services,541340,541340,541340,541340,541340
+1130,Building Inspection Services,541350,541350,541350,541350,541350
+1131,Geophysical Surveying and Mapping Services,541360,541360,541360,541360,541360
+1132,Surveying and Mapping (except Geophysical) Services,541370,541370,541370,541370,541370
+1133,Testing Laboratories,541380,541380,541380,541380,541380
+1134,Interior Design Services,541410,541410,541410,541410,541410
+1135,Industrial Design Services,541420,541420,541420,541420,541420
+1136,Graphic Design Services,541430,541430,541430,541430,541430
+1137,Other Specialized Design Services,541490,541490,541490,541490,541490
+1138,Custom Computer Programming Services,541511,541511,541511,541511,541511
+1139,Computer Systems Design Services,541512,541512,541512,541512,541512
+1140,Computer Facilities Management Services,541513,541513,541513,541513,541513
+1141,Other Computer Related Services,541519,541519,541519,541519,541519
+1142,Administrative Management and General Management Consulting Services,541611,541611,541611,541611,541611
+1143,Human Resources Consulting Services,541612,541612,541612,541612,541612
+1144,Executive Search Services,561312,561312,561312,541612,541612
+1145,Marketing Consulting Services,541613,541613,541613,541613,541613
+1146,"Process, Physical Distribution, and Logistics Consulting Services",541614,541614,541614,541614,541614
+1147,Other Management Consulting Services,541618,541618,541618,541618,541618
+1148,Environmental Consulting Services,541620,541620,541620,541620,541620
+1149,Other Scientific and Technical Consulting Services,541690,541690,541690,541690,541690
+1150,Research and Development in Nanotechnology,541713,541711,541711,541710,541710
+1151,Research and Development in Biotechnology (except Nanobiotechnology),541714,541711,541711,541710,541710
+1152,Research and Development in Nanotechnology,541713,541712,541712,541710,541710
+1153,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",541715,541712,541712,541710,541710
+1154,Research and Development in the Social Sciences and Humanities,541720,541720,541720,541720,541720
+1155,Advertising Agencies,541810,541810,541810,541810,541810
+1156,Public Relations Agencies,541820,541820,541820,541820,541820
+1157,Media Buying Agencies,541830,541830,541830,541830,541830
+1158,Media Representatives,541840,541840,541840,541840,541840
+1159,Outdoor Advertising,541850,541850,541850,541850,541850
+1160,Direct Mail Advertising,541860,541860,541860,541860,541860
+1161,Advertising Material Distribution Services,541870,541870,541870,541870,541870
+1162,Other Services Related to Advertising,541890,541890,541890,541890,541890
+1163,Marketing Research and Public Opinion Polling,541910,541910,541910,541910,541910
+1164,"Photography Studios, Portrait",541921,541921,541921,541921,541921
+1165,Commercial Photography,541922,541922,541922,541922,541922
+1166,Translation and Interpretation Services,541930,541930,541930,541930,541930
+1167,Veterinary Services,541940,541940,541940,541940,541940
+1168,"All Other Professional, Scientific, and Technical Services",541990,541990,541990,541990,541990
+1169,Offices of Bank Holding Companies,551111,551111,551111,551111,551111
+1170,Offices of Other Holding Companies,551112,551112,551112,551112,551112
+1171,"Corporate, Subsidiary, and Regional Managing Offices",551114,551114,551114,551114,551114
+1172,Office Administrative Services,561110,561110,561110,561110,561110
+1173,Facilities Support Services,561210,561210,561210,561210,561210
+1174,Employment Placement Agencies,561311,561311,561311,561310,561310
+1175,Temporary Help Services,561320,561320,561320,561320,561320
+1176,Professional Employer Organizations,561330,561330,561330,561330,561330
+1177,Document Preparation Services,561410,561410,561410,561410,561410
+1178,Telephone Answering Services,561421,561421,561421,561421,561421
+1179,Telemarketing Bureaus and Other Contact Centers,561422,561422,561422,561422,561422
+1180,Private Mail Centers,561431,561431,561431,561431,561431
+1181,Other Business Service Centers (including Copy Shops),561439,561439,561439,561439,561439
+1182,Collection Agencies,561440,561440,561440,561440,561440
+1183,Credit Bureaus,561450,561450,561450,561450,561450
+1184,Repossession Services,561491,561491,561491,561491,561491
+1185,Court Reporting and Stenotype Services,561492,561492,561492,561492,561492
+1186,All Other Business Support Services,561499,561499,561499,561499,561499
+1187,Travel Agencies,561510,561510,561510,561510,561510
+1188,Tour Operators,561520,561520,561520,561520,561520
+1189,Convention and Visitors Bureaus,561591,561591,561591,561591,561591
+1190,All Other Travel Arrangement and Reservation Services,561599,561599,561599,561599,561599
+1191,Investigation Services,561611,561611,561611,561611,561611
+1192,Security Guards and Patrol Services,561612,561612,561612,561612,561612
+1193,Armored Car Services,561613,561613,561613,561613,561613
+1194,Security Systems Services (except Locksmiths),561621,561621,561621,561621,561621
+1195,Locksmiths,561622,561622,561622,561622,561622
+1196,Exterminating and Pest Control Services,561710,561710,561710,561710,561710
+1197,Janitorial Services,561720,561720,561720,561720,561720
+1198,Janitorial Services,561720,561720,561720,561720,561720
+1199,Landscaping Services,561730,561730,561730,561730,561730
+1200,Carpet and Upholstery Cleaning Services,561740,561740,561740,561740,561740
+1201,Other Services to Buildings and Dwellings,561790,561790,561790,561790,561790
+1202,Packaging and Labeling Services,561910,561910,561910,561910,561910
+1203,Convention and Trade Show Organizers,561920,561920,561920,561920,561920
+1204,All Other Support Services,561990,561990,561990,561990,561990
+1205,Solid Waste Collection,562111,562111,562111,562111,562111
+1206,Hazardous Waste Collection,562112,562112,562112,562112,562112
+1207,Other Waste Collection,562119,562119,562119,562119,562119
+1208,Hazardous Waste Treatment and Disposal,562211,562211,562211,562211,562211
+1209,Solid Waste Landfill,562212,562212,562212,562212,562212
+1210,Solid Waste Combustors and Incinerators,562213,562213,562213,562213,562213
+1211,Other Nonhazardous Waste Treatment and Disposal,562219,562219,562219,562219,562219
+1212,Remediation Services,562910,562910,562910,562910,562910
+1213,Materials Recovery Facilities,562920,562920,562920,562920,562920
+1214,Septic Tank and Related Services,562991,562991,562991,562991,562991
+1215,All Other Miscellaneous Waste Management Services,562998,562998,562998,562998,562998
+1216,Elementary and Secondary Schools,611110,611110,611110,611110,611110
+1217,Junior Colleges,611210,611210,611210,611210,611210
+1218,"Colleges, Universities, and Professional Schools",611310,611310,611310,611310,611310
+1219,Business and Secretarial Schools,611410,611410,611410,611410,611410
+1220,Computer Training,611420,611420,611420,611420,611420
+1221,Professional and Management Development Training,611430,611430,611430,611430,611430
+1222,Cosmetology and Barber Schools,611511,611511,611511,611511,611511
+1223,Flight Training,611512,611512,611512,611512,611512
+1224,Apprenticeship Training,611513,611513,611513,611513,611513
+1225,Other Technical and Trade Schools,611519,611519,611519,611519,611519
+1226,Fine Arts Schools,611610,611610,611610,611610,611610
+1227,Sports and Recreation Instruction,611620,611620,611620,611620,611620
+1228,Language Schools,611630,611630,611630,611630,611630
+1229,Exam Preparation and Tutoring,611691,611691,611691,611691,611691
+1230,Automobile Driving Schools,611692,611692,611692,611692,611692
+1231,All Other Miscellaneous Schools and Instruction,611699,611699,611699,611699,611699
+1232,Educational Support Services,611710,611710,611710,611710,611710
+1233,Offices of Physicians (except Mental Health Specialists),621111,621111,621111,621111,621111
+1234,"Offices of Physicians, Mental Health Specialists",621112,621112,621112,621112,621112
+1235,Offices of Dentists,621210,621210,621210,621210,621210
+1236,Offices of Chiropractors,621310,621310,621310,621310,621310
+1237,Offices of Optometrists,621320,621320,621320,621320,621320
+1238,Offices of Mental Health Practitioners (except Physicians),621330,621330,621330,621330,621330
+1239,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",621340,621340,621340,621340,621340
+1240,Offices of Podiatrists,621391,621391,621391,621391,621391
+1241,Offices of All Other Miscellaneous Health Practitioners,621399,621399,621399,621399,621399
+1242,Family Planning Centers,621410,621410,621410,621410,621410
+1243,Outpatient Mental Health and Substance Abuse Centers,621420,621420,621420,621420,621420
+1244,HMO Medical Centers,621491,621491,621491,621491,621491
+1245,Kidney Dialysis Centers,621492,621492,621492,621492,621492
+1246,Freestanding Ambulatory Surgical and Emergency Centers,621493,621493,621493,621493,621493
+1247,All Other Outpatient Care Centers,621498,621498,621498,621498,621498
+1248,Medical Laboratories,621511,621511,621511,621511,621511
+1249,Diagnostic Imaging Centers,621512,621512,621512,621512,621512
+1250,Home Health Care Services,621610,621610,621610,621610,621610
+1251,Ambulance Services,621910,621910,621910,621910,621910
+1252,Blood and Organ Banks,621991,621991,621991,621991,621991
+1253,All Other Miscellaneous Ambulatory Health Care Services,621999,621999,621999,621999,621999
+1254,General Medical and Surgical Hospitals,622110,622110,622110,622110,622110
+1255,Psychiatric and Substance Abuse Hospitals,622210,622210,622210,622210,622210
+1256,Specialty (except Psychiatric and Substance Abuse) Hospitals,622310,622310,622310,622310,622310
+1257,Nursing Care Facilities (Skilled Nursing Facilities),623110,623110,623110,623110,623110
+1258,Residential Intellectual and Developmental Disability Facilities,623210,623210,623210,623210,623210
+1259,Residential Mental Health and Substance Abuse Facilities,623220,623220,623220,623220,623220
+1260,Continuing Care Retirement Communities,623311,623311,623311,623311,623311
+1261,Assisted Living Facilities for the Elderly,623312,623312,623312,623312,623312
+1262,Other Residential Care Facilities,623990,623990,623990,623990,623990
+1263,Child and Youth Services,624110,624110,624110,624110,624110
+1264,Services for the Elderly and Persons with Disabilities,624120,624120,624120,624120,624120
+1265,Other Individual and Family Services,624190,624190,624190,624190,624190
+1266,Community Food Services,624210,624210,624210,624210,624210
+1267,Temporary Shelters,624221,624221,624221,624221,624221
+1268,Other Community Housing Services,624229,624229,624229,624229,624229
+1269,Emergency and Other Relief Services,624230,624230,624230,624230,624230
+1270,Vocational Rehabilitation Services,624310,624310,624310,624310,624310
+1271,Child Day Care Services,624410,624410,624410,624410,624410
+1272,Theater Companies and Dinner Theaters,711110,711110,711110,711110,711110
+1273,Dance Companies,711120,711120,711120,711120,711120
+1274,Musical Groups and Artists,711130,711130,711130,711130,711130
+1275,Other Performing Arts Companies,711190,711190,711190,711190,711190
+1276,Sports Teams and Clubs,711211,711211,711211,711211,711211
+1277,Racetracks,711212,711212,711212,711212,711212
+1278,Other Spectator Sports,711219,711219,711219,711219,711219
+1279,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",711310,711310,711310,711310,711310
+1280,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",711320,711320,711320,711320,711320
+1281,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",711410,711410,711410,711410,711410
+1282,"Independent Artists, Writers, and Performers",711510,711510,711510,711510,711510
+1283,Museums,712110,712110,712110,712110,712110
+1284,Historical Sites,712120,712120,712120,712120,712120
+1285,Zoos and Botanical Gardens,712130,712130,712130,712130,712130
+1286,Nature Parks and Other Similar Institutions,712190,712190,712190,712190,712190
+1287,Amusement and Theme Parks,713110,713110,713110,713110,713110
+1288,Amusement Arcades,713120,713120,713120,713120,713120
+1289,Casinos (except Casino Hotels),713210,713210,713210,713210,713210
+1290,Other Gambling Industries,713290,713290,713290,713290,713290
+1291,Golf Courses and Country Clubs,713910,713910,713910,713910,713910
+1292,Skiing Facilities,713920,713920,713920,713920,713920
+1293,Marinas,713930,713930,713930,713930,713930
+1294,Fitness and Recreational Sports Centers,713940,713940,713940,713940,713940
+1295,Bowling Centers,713950,713950,713950,713950,713950
+1296,All Other Amusement and Recreation Industries,713990,713990,713990,713990,713990
+1297,Hotels (except Casino Hotels) and Motels,721110,721110,721110,721110,721110
+1298,Casino Hotels,721120,721120,721120,721120,721120
+1299,Bed-and-Breakfast Inns,721191,721191,721191,721191,721191
+1300,All Other Traveler Accommodation,721199,721199,721199,721199,721199
+1301,RV (Recreational Vehicle) Parks and Campgrounds,721211,721211,721211,721211,721211
+1302,Recreational and Vacation Camps (except Campgrounds),721214,721214,721214,721214,721214
+1303,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",721310,721310,721310,721310,721310
+1304,Food Service Contractors,722310,722310,722310,722310,722310
+1305,Caterers,722320,722320,722320,722320,722320
+1306,Mobile Food Services,722330,722330,722330,722330,722330
+1307,Drinking Places (Alcoholic Beverages),722410,722410,722410,722410,722410
+1308,Full-Service Restaurants,722511,722511,722110,722110,722110
+1309,Limited-Service Restaurants,722513,722513,722211,722211,722211
+1310,"Cafeterias, Grill Buffets, and Buffets",722514,722514,722212,722212,722212
+1311,Snack and Nonalcoholic Beverage Bars,722515,722515,722213,722213,722213
+1312,General Automotive Repair,811111,811111,811111,811111,811111
+1313,Automotive Exhaust System Repair,811112,811112,811112,811112,811112
+1314,Automotive Transmission Repair,811113,811113,811113,811113,811113
+1315,Other Automotive Mechanical and Electrical Repair and Maintenance,811118,811118,811118,811118,811118
+1316,"Automotive Body, Paint, and Interior Repair and Maintenance",811121,811121,811121,811121,811121
+1317,Automotive Glass Replacement Shops,811122,811122,811122,811122,811122
+1318,Automotive Oil Change and Lubrication Shops,811191,811191,811191,811191,811191
+1319,Car Washes,811192,811192,811192,811192,811192
+1320,All Other Automotive Repair and Maintenance,811198,811198,811198,811198,811198
+1321,Consumer Electronics Repair and Maintenance,811211,811211,811211,811211,811211
+1322,Computer and Office Machine Repair and Maintenance,811212,811212,811212,811212,811212
+1323,Communication Equipment Repair and Maintenance,811213,811213,811213,811213,811213
+1324,Other Electronic and Precision Equipment Repair and Maintenance,811219,811219,811219,811219,811219
+1325,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,811310,811310,811310,811310,811310
+1326,Home and Garden Equipment Repair and Maintenance,811411,811411,811411,811411,811411
+1327,Appliance Repair and Maintenance,811412,811412,811412,811412,811412
+1328,Reupholstery and Furniture Repair,811420,811420,811420,811420,811420
+1329,Footwear and Leather Goods Repair,811430,811430,811430,811430,811430
+1330,Other Personal and Household Goods Repair and Maintenance,811490,811490,811490,811490,811490
+1331,Barber Shops,812111,812111,812111,812111,812111
+1332,Beauty Salons,812112,812112,812112,812112,812112
+1333,Nail Salons,812113,812113,812113,812113,812113
+1334,Diet and Weight Reducing Centers,812191,812191,812191,812191,812191
+1335,Other Personal Care Services,812199,812199,812199,812199,812199
+1336,Funeral Homes and Funeral Services,812210,812210,812210,812210,812210
+1337,Cemeteries and Crematories,812220,812220,812220,812220,812220
+1338,Coin-Operated Laundries and Drycleaners,812310,812310,812310,812310,812310
+1339,Drycleaning and Laundry Services (except Coin-Operated),812320,812320,812320,812320,812320
+1340,Linen Supply,812331,812331,812331,812331,812331
+1341,Industrial Launderers,812332,812332,812332,812332,812332
+1342,Pet Care (except Veterinary) Services,812910,812910,812910,812910,812910
+1343,Photofinishing Laboratories (except One-Hour),812921,812921,812921,812921,812921
+1344,One-Hour Photofinishing,812922,812922,812922,812922,812922
+1345,Parking Lots and Garages,812930,812930,812930,812930,812930
+1346,All Other Personal Services,812990,812990,812990,812990,812990
+1347,Religious Organizations,813110,813110,813110,813110,813110
+1348,Grantmaking Foundations,813211,813211,813211,813211,813211
+1349,Voluntary Health Organizations,813212,813212,813212,813212,813212
+1350,Other Grantmaking and Giving Services,813219,813219,813219,813219,813219
+1351,Human Rights Organizations,813311,813311,813311,813311,813311
+1352,"Environment, Conservation and Wildlife Organizations",813312,813312,813312,813312,813312
+1353,Other Social Advocacy Organizations,813319,813319,813319,813319,813319
+1354,Civic and Social Organizations,813410,813410,813410,813410,813410
+1355,Business Associations,813910,813910,813910,813910,813910
+1356,Professional Organizations,813920,813920,813920,813920,813920
+1357,Labor Unions and Similar Labor Organizations,813930,813930,813930,813930,813930
+1358,Political Organizations,813940,813940,813940,813940,813940
+1359,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",813990,813990,813990,813990,813990
+1360,Private Households,814110,814110,814110,814110,814110
+1361,Executive Offices,921110,921110,921110,921110,921110
+1362,Legislative Bodies,921120,921120,921120,921120,921120
+1363,Public Finance Activities,921130,921130,921130,921130,921130
+1364,"Executive and Legislative Offices, Combined",921140,921140,921140,921140,921140
+1365,American Indian and Alaska Native Tribal Governments,921150,921150,921150,921150,921150
+1366,Other General Government Support,921190,921190,921190,921190,921190
+1367,Courts,922110,922110,922110,922110,922110
+1368,Police Protection,922120,922120,922120,922120,922120
+1369,Legal Counsel and Prosecution,922130,922130,922130,922130,922130
+1370,Correctional Institutions,922140,922140,922140,922140,922140
+1371,Parole Offices and Probation Offices,922150,922150,922150,922150,922150
+1372,Fire Protection,922160,922160,922160,922160,922160
+1373,"Other Justice, Public Order, and Safety Activities",922190,922190,922190,922190,922190
+1374,Administration of Education Programs,923110,923110,923110,923110,923110
+1375,Administration of Public Health Programs,923120,923120,923120,923120,923120
+1376,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",923130,923130,923130,923130,923130
+1377,Administration of Veterans' Affairs,923140,923140,923140,923140,923140
+1378,Administration of Air and Water Resource and Solid Waste Management Programs,924110,924110,924110,924110,924110
+1379,Administration of Conservation Programs,924120,924120,924120,924120,924120
+1380,Administration of Housing Programs,925110,925110,925110,925110,925110
+1381,Administration of Urban Planning and Community and Rural Development,925120,925120,925120,925120,925120
+1382,Administration of General Economic Programs,926110,926110,926110,926110,926110
+1383,Regulation and Administration of Transportation Programs,926120,926120,926120,926120,926120
+1384,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",926130,926130,926130,926130,926130
+1385,Regulation of Agricultural Marketing and Commodities,926140,926140,926140,926140,926140
+1386,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",926150,926150,926150,926150,926150
+1387,Space Research and Technology,927110,927110,927110,927110,927110
+1388,National Security,928110,928110,928110,928110,928110
+1389,International Affairs,928120,928120,928120,928120,928120

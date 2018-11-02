@@ -1,0 +1,21 @@
+,industry,naics,emp13_bay,emp16_bay,emp13_usa,emp16_usa
+0,"Agriculture, Forestry, Fishing and Hunting",11----,1420,1906,3259777,4326453
+1,"Mining, Quarrying, and Oil and Gas Extraction",21----,537,948,14032970,12059866
+2,Utilities,22----,6483,4983,5330120,11588404
+3,Construction,23----,151943,181446,172718000,203881642
+4,Manufacturing,31----,210586,245155,332784863,356779559
+5,Wholesale Trade,42----,203856,201227,187445732,196549645
+6,Retail Trade,44----,332386,352278,487172686,517889825
+7,Transportation and Warehousing,48----,84733,95525,129065663,148399417
+8,Information,51----,207259,267460,100608209,111214081
+9,Finance and Insurance,52----,150921,155489,197513884,213631043
+10,Real Estate and Rental and Leasing,53----,57477,62126,61469563,67060186
+11,"Professional, Scientific, and Technical Services",54----,367078,401078,267595711,293759112
+12,Management of Companies and Enterprises,55----,102127,137858,65917511,74823391
+13,Administrative and Support and Waste Management and Remediation Services,56----,198350,205789,356580072,442646167
+14,Education Services,61----,111768,121136,88637597,99690834
+15,Health Care and Social Assistance,62----,398034,431776,596483503,644105490
+16,"Arts, Entertainment, and Recreation",71----,63026,67776,62974655,73184479
+17,Accomodation and Food Services,72----,322641,372097,402257149,446113061
+18,Other Services (except Public Administration),81----,131436,138375,169985382,178376965
+19,Unclassified,99----,166,1107,78287,436005
